@@ -1,0 +1,370 @@
+[Free US Ground shipping on orders $99 or more. Use code **FREESHIP**.](https://www.pantone.com/promotions)
+
+[HomePage](https://www.pantone.com/)Help Center: Graphics
+
+## **General Graphics**
+
+#### When I convert PANTONE colors to CMYK in Adobe software, the results do not match the values in my PANTONE COLOR BRIDGE guide. Why is this?
+
+The PANTONE COLOR BRIDGE digital libraries provide explicit CMYK conversions which are consistent with the CMYK data published in the PANTONE COLOR BRIDGE guides. The most current libraries are provided in PANTONE Color Manager software and can be exported to the Adobe applications. PANTONE Color Manager is a free download with registration of qualifying PANTONE products.
+
+In the Adobe applications, if you pull up a solid PANTONE color and ‘convert’ it to CMYK, you will achieve converted data based on the color setting and algorithms used by the software. This data will differ from the explicit data provided in the PANTONE COLOR BRIDGE guide and accompanying digital libraries.
+
+If your intention is to output CMYK separations which are consistent with the PANTONE COLOR BRIDGE guides, you should be selecting your colors from the PANTONE COLOR BRIDGE libraries, as opposed to selecting colors from the solid color libraries and converting to CMYK.
+
+#### My PANTONE Premium Metallics Guide references base colors from the PANTONE Goe System, which my ink supplier says is discontinued. How can I get these inks?
+
+While the PANTONE Goe System was discontinued in November 2013, the inks that are used to formulate the PANTONE Premium Metallic colors are very much available.
+
+In the first generation of PANTONE Premium Metallics, the colors were named using the descriptions from the PANTONE Goe System. Six of the inks were the same pigments used in the PANTONE PLUS SERIES with different names, as listed below:
+
+PANTONE Medium Yellow is equivalent to PANTONE Yellow 012
+PANTONE Bright Orange is equivalent to PANTONE Orange 021
+PANTONE Strong Reg is equivalent to PANTONE Rubine Red
+PANTONE Bright Green is equivalent to PANTONE Green
+PANTONE Medium Blue is equivalent to PANTONE Process Blue
+PANTONE Neutral Black is equivalent to PANTONE Black
+Four additional colors have been added to the PANTONE PLUS SERIES with the 336 colors introduced in April 2012, as follows:
+
+PANTONE Bright Red
+PANTONE Pink
+PANTONE Medium Purple
+PANTONE Dark Blue
+All of the base colors indicated above are readily available from any Pantone-licensed printing ink manufacturer. Newer versions of PANTONE Premium Metallics reflect the PANTONE PLUS SERIES names for the base colors.
+
+#### How can I purchase replacement pages for my PANTONE SOLID CHIPS product?
+
+Replacement pages are currently available for the latest version of PANTONE SOLID CHIPS which includes the 84 colors launched in March 2014. Pagination differs from earlier versions.
+
+In the short-term, you can visit our Color Finder page at www.pantone.com/pages/pantone/colorfinder.aspx to locate the page currently including your requested PANTONE color. Individual pages can then be purchased at www.pantone.com/pages/products/product.aspx?pid=795&ca=1.
+
+However, since your index will quickly become useless, we recommend replacing the PANTONE SOLID CHIPS product and returning the old book for rebate under our Trade-In program. For details on how this program works, you may contact our Direct Sales Department at 1-888-800-9580 during normal business hours. Trade In is currently offered to North American customers only.
+
+#### How can I find CMYK simulation data for PANTONE PLUS SERIES solid colors?
+
+This information is provided in the following PANTONE product, which is part of the brand-new PANTONE PLUS SERIES:
+
+PANTONE COLOR BRIDGE Coated & Uncoated Set
+http://www.pantone.com/pages/products/product.aspx?pid=1002&ca=1&s=0
+
+The individual coated and uncoated guides are also available separately:
+
+PANTONE COLOR BRIDGE Coated
+http://www.pantone.com/pages/products/product.aspx?pid=1000&ca=1&s=0
+
+PANTONE COLOR BRIDGE Uncoated
+http://www.pantone.com/pages/products/product.aspx?pid=1001&ca=1&s=0
+
+In a departure from earlier editions, the PANTONE COLOR BRIDGE product is produced with a globally-compatible workflow, and thus a single edition can be used universally worldwide.
+
+Thank you for using the PANTONE Help Center.
+
+#### How can I mix the basic colors in the PANTONE FORMULA GUIDE?
+
+The PANTONE Basic Colors are available pre-mixed from PANTONE Licensed Printing Ink Manufacturers worldwide. There are no end-user formulas available for these colors.
+
+Thank you for using the PANTONE Help Center.
+
+#### How did PANTONE Reflex Blue get its name?
+
+'Reflex blue' is a common name for a certain blue pigment used in printing ink manufacturing. When the PANTONE MATCHING SYSTEM was conceived, the term PANTONE Reflex Blue was coined to describe Pantone's representation of the reflex blue pigment.
+
+#### How did the PANTONE Goe System get its name?
+
+The choice of the name ""Goe"" was originally intended as a tribute to Johann Wolfgang von Goethe, who, among many other achievements, was the author of the scientific text Theory of Colors, but that is a bit obscure. Goe is meant to capture a spirit of action, as in ""Goexplore,"" ""Goexcite,"" ""Goexpand,"" ""Goengage,"" etc.
+
+Note that the PANTONE Goe System was discontinued in November 2013.
+
+#### How do I get started with the PANTONE PLUS SERIES?
+
+Simply purchase any of the PANTONE PLUS SERIES products. Use the free Color Manager software to work with the new PANTONE colors in your design applications.
+
+#### How do I match paint to PANTONE Colors?
+
+A local paint supplier or online paint vendor (like www.myperfectcolor.com/pantone) can help you to obtain paint colors that match either the Pantone Fashion, Home + Interiors colors or Pantone Matching System colors.
+
+Pantone Matching System colors, which are produced with printing ink on paper, can be challenging to match in paints. If you bring a sample of a Pantone Matching System color, i.e., PANTONE 185 C for example, to a paint vendor and they try to measure the color, the light source used will penetrate the ink film and reflect from the substrate, which leads to inaccurate color matching. It is probably easiest to visually compare the sample to a paint chart under controlled lighting and choose the closest applicable color.
+
+The Pantone Fashion, Home + Interiors paper-based products are produced with nitrocellulose coating on paper, which is the same process used to develop paint charts. If you have the Pantone Fashion, Home + Interiors Color Guide, or a sample chip from the Pantone Fashion, Home + Interiors Color Specifier, your paint vendor should be able to successfully computer-match the color with a high degree of accuracy.
+
+#### Is there anything different I need to do to print PANTONE PLUS SERIES spot colors?
+
+No! The PLUS SERIES colors are printed using the same 14 Basic Color inks as the PANTONE MATCHING SYSTEM. One new difference - and advantage - is that all the new solid colors are printed at a unifirm ink film thickness, which makes them easier to match on press. This saves time and money while ensuring color accuracy. Note: we did add 336 new colors in April 2012, and four additional base inks, bringing the total to 18 base inks. However, the basic printing process does not change.
+
+#### Should I use RGB or CMYK document mode in Adobe software?
+
+Which mode you use, CMYK or RGB, depends on your workflow.
+
+Pantone recommends that whenever possible, you work in RGB and convert to CMYK at the time of output. This is known as a 'late-binding' workflow and will generally provide the best results, particularly when working with photographic image files. The reason for this is that RGB is typically a much wider gamut for photo-editing. Once you are ready to print, provided you have good quality ICC profiles for the printer, you can typically obtain good results.
+
+However, some designers choose to convert to CMYK immediately. This is known as an 'early binding' workflow. While this is not wrong, the chief disadvantage of an eary binding workflow is that your files are limited to only the one device. For example, if you have a photographic image that you immediately convert to CMYK, and you later want to put this same image on the Web, you will likely have problems because in the conversion to CMYK the gamut has been severely clipped, and there is no way to restore the color space that has been lost.
+
+Thank you for using the PANTONE Help Center.
+
+#### What do the different PANTONE suffixes mean?
+
+"CV" = computer video. This designation is used to denote that a color is an electronic simulation of a PANTONE Color. It is used in older versions of software applications that license PANTONE Colors, e.g., Adobe Illustrator, Macromedia FreeHand, QuarkXPress, Adobe Photoshop, etc.
+
+"CVC" = computer video, coated paper. This denotes electronic simulation of the color specifically as it appears on coated paper; ""CVU"" does the same on uncoated paper.
+
+In May 2010, the PANTONE PLUS SERIES was introduced, which is a sweeping upgrade to the PANTONE MATCHING SYSTEM, including the addition of 224 brand-new colors, new paper stocks, and a new chromatic re-arrangement of the colors. As part of this upgrade the guides and books on Matte coated paper were discontinued. PANTONE Color Manager software is offered free of charge to purchasers of any PANTONE PLUS SERIES products, allowing for digital update of PANTONE libraries within licensed software applications. The software is also available for purchase; please contact your appropriate Pantone office location for details.
+
+The digital libraries currently use the following designations:
+
+C = coated paper, i.e., PANTONE 185 C
+
+U = uncoated paper, i.e., PANTONE 185 U
+
+CP = coated paper, process simulation, i.e., PANTONE 185 CP (used in PANTONE+ COLOR BRIDGE COATED).
+
+UP = uncoated paper, process simulation, i.e., PANTONE 185 UP (used in PANTONE+ COLOR BRIDGE UNCOATED).
+
+The following designations for PANTONE Colors used in earlier versions of PANTONE COLOR BRIDGE are now obsolete:
+
+PC = process simulation, coated paper, i.e., PANTONE 185 PC.
+
+UP= uncoated paper, process simulation, i.e., PANTONE 185 UP.
+
+EC - Euro process simulation, coated paper, i.e., PANTONE 185 EC. This was used in the European version which is now obsolete.
+
+Thank you for using the PANTONE Help Center.
+
+#### What is meant by 'color gamut'?
+
+You will find a good article relating to this at the Adobe Magazine archive site. Visit http://www.adobe.com/products/adobemag/archive/autm98na.html. The article is titled ""The Full Gamut"" by Bruce Fraser. Click the appropriate link to download a PDF of the article.
+
+#### What is the difference between 'Coated', 'Matte' and 'Uncoated'?
+
+These designations refer to the surface texture of the paper itself. Coated paper, commonly used in high quality magazines, for example, has a shiny surface. This will affect the appearance of the colors and also tends to retard the absorption of ink into the paper.
+
+Matte stock has a dull coating to it. Again, this will affect the appearance of the colors differently than a glossy coating and will also tend to reduce absorption. PANTONE guides and books on matte paper were discontinued in May 2010.
+
+Uncoated stock has no coating, allowing for the highest degree of absorption of ink. Further, the absence of coating will produce a different look to the color.
+
+In short, if you were to compare PANTONE 185 on the three different stocks, the colors would likely appear different, despite the ink and ink formulation being identical.
+
+#### What is the difference between PANTONE Transparent White and PANTONE Extender?
+
+PANTONE Transparent White is actually a finished ink minus the colorant. Thus, it contains the same varnishes, dryers and other components that would typically be found in colored printing ink. PANTONE Transparent White is semi-opaque in appearance, due to the presence of waxes and silicates. This designation typically appears in the standard PANTONE formula guide.
+
+PANTONE Extender is, in theory, exactly the same as PANTONE Transparent White, except that it contains a non-yellowing varnish. This designation typically appears in the PANTONE pastel color formula guide + chips, and its purpose is to reduce the strength of the pastel base inks. It is common for the two terms to be used interchangably. This usually does not create a problem provided you understand the correct component for your particular end-use requirements.
+
+#### What is the difference between spot and process colors?
+
+PANTONE Solid Colors, also commonly referred to as 'spot' colors, are produced by mixing inks to a given shade and then laying the ink on paper in a single pass. This is commonly done in one or two-color print jobs.
+
+PANTONE Process Colors are produced using four-color process, or CMYK, where an image is separated into cyan, magenta, yellow and/or black values, and printed as a series of dots of the colors, printed in close proximity to each other. When viewed by the human eye, the dots are blended to create the illusion of a solid field of color.
+
+Please note that these terms also relate to color in general; i.e., you could restate your question as 'what is the difference between solid and process colors' and the result would be the same.
+
+#### What is the PANTONE PLUS SERIES?
+
+The PANTONE PLUS SERIES is an enhancement and replacement of the widely used PANTONE MATCHING SYSTEM. It is the next generation of the industry standard color commuinication system for graphics and print applications. the PLUS SERIES preserves all of the current solid colorof the PANTONE MATCHING SYSTEM while adding new colors and tools.
+
+#### What paper is used in the PANTONE PLUS SERIES guides and books?
+
+The type of stock used to print the PANTONE solid color publications is as follows: Coated - #1 grade 100 lb gloss text stock Uncoated - premium grade 80 lb text stock.
+
+#### Which PANTONE base colors are lightfast?
+
+Prior to the introduction of the PANTONE Color Formula Guide 1000 in 1991, PANTONE Yellow 012, PANTONE Orange 021, PANTONE Red 032 and PANTONE Blue 072 were designated as increased lightfast substitute colors for PANTONE Yellow, PANTONE Warm Red and PANTONE Reflex Blue in the basic colors pages.
+
+With the expansion of the PANTONE MATCHING SYSTEM that occurred in 1991, these four colors were incorporated into the basic colors and used directly in formulation of blended PANTONE Colors. For this reason, the separate designation was dropped from the PANTONE formula guide.
+
+It should be noted that these colors exhibit a slight improvement in lightfastness when compared to other PANTONE Colors. It is critical that you consult a Pantone-licensed printing ink manufacturer to determine if a particular color is appropriate for your end-use requirements.
+
+Thank you for using the Help Center.
+
+#### Why did Pantone create the PANTONE PLUS SERIES?
+
+We updated the PANTONE MATCHING SYSTEM in response to the creative and technological needs of today's designers and to the ever increasing speed and complexity of print production. The PANTONE PLUS SERIES colors are easier to specify, offer more options for greater design flexibility and are easier to reproduce.
+
+## **New Formula Guide (GP16016B)**
+
+Pantone recently released new Pantone Matching System Colors. Read on for answers to frequently asked questions.
+
+#### How many new colors were added?
+
+224 new mixed colors were added, plus 5 new base ink colors for a total or 229 new colors.
+
+#### Which Pantone Graphics Products contain the new colors?
+
+New colors appear in the Pantone Formula Guide, Pantone Color Bridge, Pantone Solid Chips, Pantone Solid Guide Set, Pantone Reference Library, Pantone Portable Guide Set, Pantone Essentials Set, and the Pantone Solid Color Set.
+
+#### Were new colors added to the Metallics or Pastels and Neons Guides or Chip Books?
+
+No. New colors were not added to either of these product lines but the color of the covers was changed to identify them as part of the new product release.
+
+#### Will the new colors be available for as Pantone On-Demand Digital Swatches?
+
+Yes, the coated colors are available to order as Pantone Reference On-Demand Swatches. Go to pantone.com to order now.
+
+#### How can Pantone Colors be accessed in popular design, printing and quality control solutions (including X-Rite measurement instruments and software)?
+
+The new Pantone Colors are available in Pantone Connect, and also in the Pantone Connect Extension for Adobe Creative Cloud. All of your favorite apps for design, print quality and color formulation have been provided the latest Pantone master digital data, so you can design and produce the new Pantone Colors with confidence, everywhere.
+
+#### What’s different about this new Pantone Guide?
+
+All Pantone Colors in the latest guide are coatable and more environmentally friendly than in the prior version of the guide. This means the Pantone Colors can have a coating applied during, or after, the print process to prevent scratching or address packaging and labeling requirements. Also, all Pantone Colors are now produced with vegetable oils and have been confirmed to contain no hazardous substances as defined by OSHA, the EU, and GHS.
+
+#### What types of coatings can be applied over Pantone Colors?
+
+The Pantone Colors as printed in the latest guide are fully compatible with overprint varnishes, aqueous, and UV coatings.
+
+#### What printing process is used to produce Pantone books?
+
+Pantone uses offset lithography to print all the Pantone Guides and Color Chip Books for graphics.
+
+#### Has the paper changed in the new Pantone Formula Guides?
+
+Despite the recent supply chain issues in the paper industry, Pantone has maintained the use of the same supplier and quality of paper stock for the Formula Guide (both Coated and Uncoated).
+
+#### Have the formulas for mixing Pantone Colors changed?
+
+Pantone wanted the advantage of eco-friendliness and coatability to be available to designers and suppliers for all the Pantone Colors. So, the latest Formula Guide reflects new recipes based on inks that have these properties.
+
+#### Did the appearance of the Pantone Color Matching System colors change in the latest guide?
+
+Pantone always strives for the best quality that can be achieved with a production printing process. The new guide colors are matched to the Pantone Master Digital Data, which is consistent with every printing of the Pantone Formula Guide.
+
+#### Why does the Uncoated book in the Pantone Formula Guide set seem to have small white specs on some of the colors?
+
+Because the latest Pantone Formula Guide uses state-of-the-art lithographic offset printing (instead of the traditional direct print process), you might find some of the uncoated Pantone Colors exhibit small white specs. This appearance is typical with offset printing on uncoated paper. As a result, this is now more visible on some colors within the Uncoated Pantone Guide. This appearance has a minimal effect on the color qualities of each Pantone Color, as reinforced during our measurements in producing the Uncoated Pantone Formula Guide.
+
+## **Formula Guide**
+
+#### How do I read the formulas in the PANTONE FORMULA GUIDE?
+
+The PANTONE formula guide expresses the ink formula in a percentage mixture. The percentage formula is a percentage-of-the-whole formula, which is why the numbers add up to 100. To use this formula, you must first determine the volume of ink that you are going to mix. As an example, assume that you wanted to mix one pound of ink to match PANTONE 185. Since 1 lb = 16 ounces, 16 is your whole. The formula would break down as follows:
+
+PANTONE Warm Red - 16 x 50% = 8 oz
+
+PANTONE Rubine Red - 16 x 50% = 8 oz
+
+#### How often should I replace my PANTONE guides?
+
+Pantone uses the fines quality substrate materials, but all paer stocks will yellow over time, which can change the appearance of the color of the inks printed on them. Product color appearance will also change from handling. Pantone recommends replacing color tools annually to ensure accurate color matching. This recommendation is clearly stated on the outside back covers of current product.
+
+To help offset the cost of upgrading, you can take advantage of Pantone's trade-in program, Chip-In. Read more at http://www.pantone.com/pages/pantone/Pantone.aspx?pg=20831&ca=4.
+
+#### I can't find PANTONE Prcess Cyan, PANTONE Process Magenta, PANTONE Process Yellow or PANTONE Process Black in my PANTONE PLUS SERIES Formula Guide or Solid Chips. What happened?
+
+With the introduction of the PANTONE PLUS SERIES in May 2010, the four CMYK primaries, PANTONE Process Cyan, PANTONE Process Magenta, PANTONE Process Yellow and PANTONE Process Black have been removed from the PANTONE FORMULA GUIDE and PANTONE SOLID CHIPS, simply because these products deal with solid-color printing, and the CMYK primaries are not intended to be used as spot colors. In a technical sense, these are not truly PANTONE colors; rather, they are Pantone's representations of the colors defined under ISO 2846-1 for CMYK printing.
+
+The four primaries are found in the following products which deal with CMYK printing:
+
+PANTONE COLOR BRIDGE Coated & Uncoated Set
+
+http://www.pantone.com/pages/products/product.aspx?pid=1002&ca=1&s=0
+
+PANTONE CMYK Coated and Uncoated
+
+http://www.pantone.com/pages/products/product.aspx?pid=1003&ca=1
+
+Thank you for using the PANTONE Help Center.
+
+#### I can't mix ink to match the PANTONE FORMULA GUIDE. What can I do?
+
+The formulas provided in the PANTONE formula guide are a guide for blending the colors. If the PANTONE Basic Color inks are manufactured to our color standards, the formulas will produce an ink which will match the color shown when printed by lighography on paper similar to that used in the Guide.
+
+There are many variables in printing which can affect color reproduction including, but not limited to, the following: printing process used, ink density, ink/water balance, substrate, pressmanship, condition of printing equipment, etc. It is not uncommon for slight adjustments to be necessary to match the colors, in light of the above variables.
+
+Thank you for using the Help Center.
+
+#### I have an Adobe Illustrator document with linked Photoshop files which no longer opens after installing the PANTONE PLUS SERIES libraries. How can I fix this?
+
+Most likely, the Photoshop file is using PANTONE colors from the older PANTONE MATCHING SYSTEM libraries. Since these libraries are not active within Adobe Illustrator the colors are not recognized by Adobe Illustrator.
+
+To fix this issue, reopen the linked file in Photoshop, and remap the PANTONE colors to the PANTONE PLUS SERIES libraries. Save the file and relink to the Illustrator document. The file should now open properly.
+
+#### Is the PANTONE FORMULA GUIDE a valid reference for UV or flexography?
+
+The PANTONE formula guide is produced with offset lithographic inks and the formulas therein are geared for this type of ink.
+
+Pantone does not currently offer a guide specifically for UV or flexographic inks. Printers are encouraged to work closely with their Pantone licensed printing ink manufacturer when dealing with specialized customer end-use requirements.
+
+#### My PANTONE guide has an ink company custom cover? How is it different?
+
+Pantone allows PANTONE Licensed Printing Ink Manufacturers to put customized covers on PANTONE formula guides which they purchase for resale or distribution to their customers. This is done to allow the ink companies to advertise their products in conjunction with the PANTONE Colors. The sheetwork containing the colors in these Guides is produced by Pantone and is the same sheetwork that goes into the guides that use the standard PANTONE Covers.
+
+#### The PANTONE Basic Colors in front of the guide do not match the same PANTONE Basic Color in the body of the Guide. Why is this, and which is correct?
+
+The PANTONE Basic Color pages are printed on a separate form from other pages in the Guide. As a result, they can be thought of as a separate press run and are subject to the normal variation in printing which occurs from run to run. Further, the colors in the body of the book are printed together with colors in the same family. In some cases, adjustments need to be made on press to maintain the “flow” of colors from light to dark on a particular page.
+
+While we take careful measures to print the colors on the Basic Color pages as accurately as possible, we recommend that the color in the body of the book be considered the standard for the basic PANTONE Colors.
+
+#### What do the initials PMS stand for, i.e., PMS 116?
+
+PMS is the acronym for ""PANTONE MATCHING SYSTEM."" Although Pantone, LLC. owns the trademark ""PMS,"" it is one which we request not be used by third parties. People oftentimes refer to a PANTONE MATCHING SYSTEM Color with the initials PMS. Thus, PMS 116 C and PANTONE 116 C refer to the same color.
+
+#### What happened to the PANTONE guides and books on matte coated paper?
+
+Market demand for matte finish color tools dropped dramatically, to the point where it was no longer practical to retain these products. All the PLUS SERIES colors are available on coated and uncoated stock, with the excdeption of metallic colors, which require a glossy substrate to produce a metallic sheen and are only available on coated paper.
+
+#### Why can’t my printer match my PANTONE color?
+
+There are several issues to look at when these problems occur:
+
+1\. Age of the Guide being used. If the Formula Guide is old, it may have faded or the paper aged to the point that the Guide is no longer reliable. These changes are more noticeable in the lighter colors. Pantone recommends that the Guide be replaced one year from the date of first use to maintain accurate color communication. This recommendation is clearly stated on the outside back cover of current Guides.
+
+2\. Base inks being used. Printers should be purchasing inks from a PANTONE Licensed Printing Ink Manufacturer. Chances are, if the PANTONE Trademark appears on the ink can label, this condition is being met. Further, users should not substitute base colors. For example, if the formula calls for PANTONE Black and the printer uses PANTONE Process Black (one of the SWOP colors), there will likely be a color variation.
+
+3\. Relative strength of base color pigments. Oftentimes, this turns out to be the problem. Users should check with their ink supplier's technical staff. For example, if one base ink is slightly strong, and the other is weaker, this can cause a color variation. In this case, adjustments to the formula may be necessary to match the color. Ink suppliers are often aware of these variables and can provide the appropriate guidance.
+
+If the above guidelines do not solve the problem, please do not hesitate to contact us for further assistance.
+
+Thank you for using the PANTONE Help Center.
+
+## **Extended Gamut Questions**
+
+#### How do I effectively specify my colors to my customer, prepress supplier or printer using the PANTONE EXTENDED GAMUT Coated Guide Color standards?
+
+When designing in the preferred design application, one should specify a color from the PANTONE PLUS SERIES Color Libraries you have synced utilizing PANTONE COLOR MANAGER or the PantoneLIVE Adobe Illustrator Ink Book and Viewer plugins.
+
+Use this PANTONE EXTENDED GAMUT Coated Guide to determine when it may be possible to more accurately reproduce a solid PANTONE Color using PANTONE Process CMYK and PANTONE XG Orange, Green and Violet (OGV) Inks.
+
+First, identify the desired PANTONE MATCHING SYSTEM® Color (using a current PLUS SERIES FORMULA GUIDE Solid Coated – sold separately). Then, locate that PANTONE MATCHING SYSTEM Color using the same page number in the PANTONE EXTENDED GAMUT Coated Guide and compare under proper lighting conditions. If the PANTONE EXTENDED GAMUT Color is not visually acceptable, the color should remain specified as a solid color. When the PANTONE EXTENDED GAMUT Color appears adequate, please use PANTONE COLOR MANAGER software to incorporate these colors into your files. To assist you, support files are available at pantone.com/extendedgamut.
+
+The screen tint percentages supplied are based on the printing conditions under which this Guide was produced and are intended as guidelines (see the PRINTING NOTES section below). If your workflow varies from ours, adjustments may be made to optimize the match.
+
+#### How do I proof work when utilizing the PANTONE EXTENDED GAMUT Coated Guide?
+
+Designers: If you are utilizing PANTONE COLOR MANAGER to update your Adobe color books, your PANTONE EXTENDED GAMUT Coated Guide colors will reproduce adequately on a well-maintained inkjet proofer. The proofing device will utilize the RGB values in your non-separated “spot color” and reproduce the color to the best of its ability. The PANTONE EXTENDED GAMUT Coated Guide should be used to check the accuracy of your printed proof. If more accuracy is needed, you may want to consult with a color management professional.
+
+Printers: After color separation, printers and color separators should use your press specific proofing profile to reproduce a color accurate proof. There are many proofing RIPS that specialize in the PANTONE EXTENDED GAMUT Process. Please contact your preferred RIP manufacturer to check compatibility of your RIP and proofer.
+
+#### How do I use my PANTONE® PLUS SERIES EXTENDED GAMUT Coated Guide?
+
+The PANTONE® PLUS SERIES EXTENDED GAMUT Coated Guide should be used by brand owners, designers, printers and end-users to make an educated decision on how PANTONE Spot Colors will reproduce in final production utilizing the extended gamut offset printing process. By specifying these colors in design files, your color intent can be clearly communicated to the color separator or printer.
+
+It should be understood that each printer may have varying workflows and printing conditions. As such the color build for each color may differ from printer to printer. The screen percentages in this Guide are included to provide an indication of a starting point for a printer to use to achieve their desired color.
+
+#### Now that I have purchased the PANTONE EXTENDED GAMUT Coated Guide, how can I use the colors in my preferred design software? P
+
+ANTONE COLOR MANAGER is a software application supplied by Pantone that syncs the latest PANTONE Color Libraries with your favorite design software. A one-year PANTONE COLOR MANAGER subscription is free with purchase of the PANTONE EXTENDED GAMUT Coated Guide via a registration code located at the back of the Guide. This subscription will allow one to register the Guide on the website, download the software and sync Pantone Guides and pallets. Please visit http://www.Pantone.com/Pantone-color-manager-software for details about the software.
+
+The PANTONE EXTENDED GAMUT Color Library is also available in PantoneLIVE®. All Pantone Master Standards and Dependent Standards, including the PANTONE EXTENDED GAMUT Colors can be utilized via the PantoneLIVE Adobe® Illustrator® Ink Book and Viewer plugins. Please visit http://www.Pantone.com/pages/Pantone.aspx?pg=21067 for more information on the PantoneLIVE plug-in set.
+
+#### What does the PANTONE EXTENDED GAMUT Coated Guide mean to pre-press and printers?
+
+PANTONE EXTENDED GAMUT printing provides for significant efficiencies in the pressroom. If not printing spot colors, one can decrease changeover times, lower ink consumption, utilize fewer plates and increase consistency and quality of a press run from beginning to end.
+
+When using the PANTONE EXTENDED GAMUT Guide, you should use the XG standards as your targets when converting PANTONE Spot Colors into EXTENDED GAMUT process printed colors. XG standards are “achievable” for the given printing process, substrate and ink system.
+
+The screen percentages in this Guide are included to provide an indication of a starting point for a printer to use to achieve their desired color. However, it should be understood that your unique workflow will dictate the final separation values.
+
+#### What does the PANTONE EXTENDED GAMUT printing process mean to the brand owners and designers?
+
+The PANTONE EXTENDED GAMUT workflow removes many of the standard limitations and frees designers to focus on creativity. Designers can specify as many colors in their designs as they wish without being told they need to limit their color palette to CMYK and 2 spot colors. Graphic designers who design for the XG workflow are able to maintain highly impactful colors and, at the same time, create more dynamic designs than ever before.
+
+If a critical color has been identified in your design, it is suggested that you compare the PANTONE EXTENDED GAMUT Coated Guide to a PANTONE PLUS SERIES FORMULA GUIDE, to ensure there is an acceptable match. If there is not an acceptable match, it is suggested that you retain the critical color as a PANTONE Spot Color.
+
+After installing the PANTONE COLOR MANAGER Software, be sure to specify from the PANTONE EXTENDED GAMUT Color Palette so your printing partners will know your acceptable process colors and reproduce your artwork to your satisfaction.
+
+#### What is PANTONE® EXTENDED GAMUT Color Printing?
+
+The basic premise of PANTONE EXTENDED GAMUT “XG” Printing is adding three additional base inks (Orange, Green and Violet) to the traditional CMYK ink set in order to “expand” the color gamut of typical process color printing. This enables printers to reproduce a wider range of colors. This fixed ink set can then be used to accurately simulate PANTONE Spot Colors.
+
+Extended color gamut printing is not a new concept. It has been utilized by commercial printers and packaging converters for the past two decades. Widespread adoption has been limited until the last few years. With the alignment of industry associations, prepress technology partners, press manufacturers, and plate manufacturers, XG is now mainstream and accessible for the market segments that want to take advantage of it.
+
+Understanding the design challenges around multiple spot color printing and also the needs of our industry, Pantone has created this seven-color printing guide as another universal language and reference of colors that brand owners, designers and printers can all speak and agree upon.
