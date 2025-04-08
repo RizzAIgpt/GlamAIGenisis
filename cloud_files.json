@@ -1,0 +1,5132 @@
+[
+  {
+    "id": "file_01JRBF74WE3CDQWAMN7VDF39NW",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 2497,
+    "status": "indexing_pending",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/email-unsubscribe",
+      "lastCrawledAt": "2025-04-08T19:49:43.891+00:00"
+    },
+    "key": "email unsubscribe.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:49:43.941Z"
+  },
+  {
+    "id": "file_01JRBF6Y4QPTAW4SFRQJB02SHT",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 6236,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/about/terms-of-use",
+      "lastCrawledAt": "2025-04-08T19:49:36.954+00:00"
+    },
+    "key": "terms of use.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:49:37.037Z"
+  },
+  {
+    "id": "file_01JRBF6Y0QRSN8FY3PFY5FY48P",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 3912,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/license",
+      "lastCrawledAt": "2025-04-08T19:49:36.827+00:00"
+    },
+    "key": "license.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:49:36.910Z"
+  },
+  {
+    "id": "file_01JRBF6XT12GACPECM8J0DP4GB",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 455,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/license/become-a-licensee",
+      "lastCrawledAt": "2025-04-08T19:49:36.573+00:00"
+    },
+    "key": "become a licensee.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:49:36.686Z"
+  },
+  {
+    "id": "file_01JRBF6PN9RVPGD8QAZD8D7VS1",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 23450,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/license/colored-materials",
+      "lastCrawledAt": "2025-04-08T19:49:29.265+00:00"
+    },
+    "key": "colored materials.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:49:29.379Z"
+  },
+  {
+    "id": "file_01JRBF6PFESFGAXDHK4Z25RBYK",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 2576,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/learn/books-publications",
+      "lastCrawledAt": "2025-04-08T19:49:29.135+00:00"
+    },
+    "key": "books publications.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:49:29.192Z"
+  },
+  {
+    "id": "file_01JRBF6EBDCFEPQ2Z74TCP0DPG",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 10334,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/color-systems/for-coatings-pigments",
+      "lastCrawledAt": "2025-04-08T19:49:20.769+00:00"
+    },
+    "key": "for coatings pigments.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:49:20.866Z"
+  },
+  {
+    "id": "file_01JRBF6E5MN7AWHG56MWRT9YQ8",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 2361,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/license/color-displays",
+      "lastCrawledAt": "2025-04-08T19:49:20.631+00:00"
+    },
+    "key": "color displays.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:49:20.687Z"
+  },
+  {
+    "id": "file_01JRBF679J06398DQ9R3Q6P28T",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 7182,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/license/color-printers",
+      "lastCrawledAt": "2025-04-08T19:49:13.592+00:00"
+    },
+    "key": "color printers.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:49:13.642Z"
+  },
+  {
+    "id": "file_01JRBF672K4BCCPX7MVFXSCFZR",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 22291,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/license/consumer-products",
+      "lastCrawledAt": "2025-04-08T19:49:13.365+00:00"
+    },
+    "key": "consumer products.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:49:13.418Z"
+  },
+  {
+    "id": "file_01JRBF66Y5H69ZGD3Z8VG25T13",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 17670,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/license/software-and-web",
+      "lastCrawledAt": "2025-04-08T19:49:13.238+00:00"
+    },
+    "key": "software and web.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:49:13.279Z"
+  },
+  {
+    "id": "file_01JRBF5Z7Z22P3E45JP6GGEWBX",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 34457,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/customer-service/help-center-graphics",
+      "lastCrawledAt": "2025-04-08T19:49:05.344+00:00"
+    },
+    "key": "help center graphics.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:49:05.401Z"
+  },
+  {
+    "id": "file_01JRBF5Z4117SFBGNYGRWD8QJT",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 11550,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/customer-service/help-center-fashion-home-interiors",
+      "lastCrawledAt": "2025-04-08T19:49:05.215+00:00"
+    },
+    "key": "help center fashion home interiors.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:49:05.275Z"
+  },
+  {
+    "id": "file_01JRBF5YZF8FHC9SPG8FWMRRYT",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 2985,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/customer-service/help-center-digital",
+      "lastCrawledAt": "2025-04-08T19:49:05.040+00:00"
+    },
+    "key": "help center digital.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:49:05.122Z"
+  },
+  {
+    "id": "file_01JRBF5N6RYCAKSS4Z8QESFVY5",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 1212,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/customer-service/help-center-color-control-tools",
+      "lastCrawledAt": "2025-04-08T19:48:55.056+00:00"
+    },
+    "key": "help center color control tools.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:48:55.122Z"
+  },
+  {
+    "id": "file_01JRBF5N2B53F8EJHXMGNV190D",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 9961,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/customer-service/help-center-general",
+      "lastCrawledAt": "2025-04-08T19:48:54.944+00:00"
+    },
+    "key": "help center general.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:48:54.979Z"
+  },
+  {
+    "id": "file_01JRBF5MQ68RWQ7VFYT2QKDD02",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 47168,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/color-consulting/case-studies",
+      "lastCrawledAt": "2025-04-08T19:48:54.565+00:00"
+    },
+    "key": "case studies.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:48:54.616Z"
+  },
+  {
+    "id": "file_01JRBF5EX9CGP9KHWER2YXX1W1",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 16437,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/color-consulting/trend-forecasts-reports",
+      "lastCrawledAt": "2025-04-08T19:48:48.634+00:00"
+    },
+    "key": "trend forecasts reports.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:48:48.673Z"
+  },
+  {
+    "id": "file_01JRBF5EQH0RA8FHTA4GFNGR86",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 21653,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/color-consulting/custom-color-solutions",
+      "lastCrawledAt": "2025-04-08T19:48:48.457+00:00"
+    },
+    "key": "custom color solutions.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:48:48.489Z"
+  },
+  {
+    "id": "file_01JRBF57ACBJWVHCP56CFHRJCE",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 1122,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/terms-and-conditions",
+      "lastCrawledAt": "2025-04-08T19:48:40.864+00:00"
+    },
+    "key": "terms and conditions.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:48:40.900Z"
+  },
+  {
+    "id": "file_01JRBF4MS44VFNWYCYHDKYM1VH",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 3359,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/customer-service/shipping-policy",
+      "lastCrawledAt": "2025-04-08T19:48:21.865+00:00"
+    },
+    "key": "shipping policy.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:48:21.915Z"
+  },
+  {
+    "id": "file_01JRBF4MN5NFMX7WFMRDYA05EG",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 2181,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/customer-service/help-center-discontinued-products-services",
+      "lastCrawledAt": "2025-04-08T19:48:21.749+00:00"
+    },
+    "key": "help center discontinued products services.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:48:21.787Z"
+  },
+  {
+    "id": "file_01JRBF4ER1HKHCTCNG59P9QSF5",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 161,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/customer-service",
+      "lastCrawledAt": "2025-04-08T19:48:15.627+00:00"
+    },
+    "key": "customer service.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:48:15.738Z"
+  },
+  {
+    "id": "file_01JRBF49VYV6A99YBH3459HH4E",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 3121,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/our-products/about-color-control-tools",
+      "lastCrawledAt": "2025-04-08T19:48:10.696+00:00"
+    },
+    "key": "about color control tools.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:48:10.743Z"
+  },
+  {
+    "id": "file_01JRBF49PMRD25S8P68QS0ME6Y",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 6296,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/our-products/about-fashion-home-interiors",
+      "lastCrawledAt": "2025-04-08T19:48:10.522+00:00"
+    },
+    "key": "about fashion home interiors.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:48:10.567Z"
+  },
+  {
+    "id": "file_01JRBF3YSYQFPYEGREBJ00HJHA",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 158,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/color-resources/video-gallery",
+      "lastCrawledAt": "2025-04-08T19:47:58.471+00:00"
+    },
+    "key": "video gallery.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:47:59.402Z"
+  },
+  {
+    "id": "file_01JRBF3QN4P85Y7NXAFBXSB1A1",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 160,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/color-resources",
+      "lastCrawledAt": "2025-04-08T19:47:52.023+00:00"
+    },
+    "key": "color resources.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:47:52.093Z"
+  },
+  {
+    "id": "file_01JRBF3QHH4JSV4JDS4BE6BWA6",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 8818,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/color-systems/for-graphic-design",
+      "lastCrawledAt": "2025-04-08T19:47:51.929+00:00"
+    },
+    "key": "for graphic design.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:47:51.979Z"
+  },
+  {
+    "id": "file_01JRBF3QC7XJR6B66QBE29RBWA",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 9636,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/color-systems/pantone-color-systems-explained",
+      "lastCrawledAt": "2025-04-08T19:47:51.753+00:00"
+    },
+    "key": "pantone color systems explained.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:47:51.808Z"
+  },
+  {
+    "id": "file_01JRBF3JBJCBXBDJJWX50RWT6Q",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 16423,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/events-and-webinars",
+      "lastCrawledAt": "2025-04-08T19:47:46.627+00:00"
+    },
+    "key": "events and webinars.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:47:46.668Z"
+  },
+  {
+    "id": "file_01JRBF3J7Q29N029QWXZNYAYZ7",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 1856,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/customer-service/software-download",
+      "lastCrawledAt": "2025-04-08T19:47:46.468+00:00"
+    },
+    "key": "software download.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:47:46.545Z"
+  },
+  {
+    "id": "file_01JRBF3J2RDG5Z2RX5V3DRN072",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 2780,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/services/extended-gamut-printers",
+      "lastCrawledAt": "2025-04-08T19:47:46.334+00:00"
+    },
+    "key": "extended gamut printers.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:47:46.381Z"
+  },
+  {
+    "id": "file_01JRBF3C7T9NEMTA9N3HY3PWX3",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 4048,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/services/pantone-trade-in-program",
+      "lastCrawledAt": "2025-04-08T19:47:40.354+00:00"
+    },
+    "key": "pantone trade in program.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:47:40.394Z"
+  },
+  {
+    "id": "file_01JRBF3C4M3T0EC7NWDPE2VBYT",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 2050,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/services/pantone-certified-printer-program",
+      "lastCrawledAt": "2025-04-08T19:47:40.232+00:00"
+    },
+    "key": "pantone certified printer program.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:47:40.292Z"
+  },
+  {
+    "id": "file_01JRBF3BZT5QKNK2DJDZW6KWNZ",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 1475,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/dyestuff-formulations",
+      "lastCrawledAt": "2025-04-08T19:47:40.082+00:00"
+    },
+    "key": "dyestuff formulations.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:47:40.146Z"
+  },
+  {
+    "id": "file_01JRBF358JNJY4YD3KSR0MFAHW",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 543,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/color-finder",
+      "lastCrawledAt": "2025-04-08T19:47:33.168+00:00"
+    },
+    "key": "color finder.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:47:33.258Z"
+  },
+  {
+    "id": "file_01JRBF2JDD0Y3VDGG8YDCK19J1",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 17213,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/color-of-the-year/downloads/wallpaper",
+      "lastCrawledAt": "2025-04-08T19:47:13.906+00:00"
+    },
+    "key": "wallpaper.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:47:13.957Z"
+  },
+  {
+    "id": "file_01JRBF2J887YQY1153YMQSSYHM",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 3148,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/pantone-list-of-countries",
+      "lastCrawledAt": "2025-04-08T19:47:13.749+00:00"
+    },
+    "key": "pantone list of countries.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:47:13.792Z"
+  },
+  {
+    "id": "file_01JRBF1ZZD6X2XRR00XGGG0PHF",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 176,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/about/california-consumer-privacy-act",
+      "lastCrawledAt": "2025-04-08T19:46:55.034+00:00"
+    },
+    "key": "california consumer privacy act.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:46:55.076Z"
+  },
+  {
+    "id": "file_01JRBF1ZSXDT4HPN53WWGYTAZV",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 166,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/about/cookie-notice",
+      "lastCrawledAt": "2025-04-08T19:46:54.860+00:00"
+    },
+    "key": "cookie notice.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:46:54.896Z"
+  },
+  {
+    "id": "file_01JRBF1R2P42NSZJKVWYTXZTXG",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 160,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/cookie-settings",
+      "lastCrawledAt": "2025-04-08T19:46:46.947+00:00"
+    },
+    "key": "cookie settings.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:46:46.989Z"
+  },
+  {
+    "id": "file_01JRBF1QZXHAFB52R4V4Z59D5V",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 158,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/wesupply-store-locator",
+      "lastCrawledAt": "2025-04-08T19:46:46.844+00:00"
+    },
+    "key": "wesupply store locator.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:46:46.900Z"
+  },
+  {
+    "id": "file_01JRBF13NGBYKR4C6FDB3V485S",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 167,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/about/privacy-policy",
+      "lastCrawledAt": "2025-04-08T19:46:26.028+00:00"
+    },
+    "key": "privacy policy.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:46:26.086Z"
+  },
+  {
+    "id": "file_01JRBF13HR3S15VSSKB3VXJ8AY",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 3209,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/trend-books/pantone-view-home-interiors-2026-with-cotton-swatch-standards",
+      "lastCrawledAt": "2025-04-08T19:46:25.865+00:00"
+    },
+    "key": "pantone view home interiors 2026 with cotton swatch standards.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:46:25.962Z"
+  },
+  {
+    "id": "file_01JRBF13C4QSNZVP5NJPN4B1XD",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 3281,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/trend-books/pantone-view-home-interiors-2026-book",
+      "lastCrawledAt": "2025-04-08T19:46:25.759+00:00"
+    },
+    "key": "pantone view home interiors 2026 book.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:46:25.787Z"
+  },
+  {
+    "id": "file_01JRBF0X0FHM79CPW72Z38AS98",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 3020,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/trend-books/viewpoint-colour-issue-16-brainpower",
+      "lastCrawledAt": "2025-04-08T19:46:19.185+00:00"
+    },
+    "key": "viewpoint colour issue 16 brainpower.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:46:19.269Z"
+  },
+  {
+    "id": "file_01JRBF0WW9W20WG5XJ932NKGNR",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 2955,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/trend-books/pantoneview-colour-planner-autumn-winter-2026-27",
+      "lastCrawledAt": "2025-04-08T19:46:19.093+00:00"
+    },
+    "key": "pantoneview colour planner autumn winter 2026 27.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:46:19.136Z"
+  },
+  {
+    "id": "file_01JRBF0WQYFMZN632K2T61G2B7",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 3812,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/fashion-home-interiors/fhi-color-guide-mug-bundle-limited-edition-pantone-color-of-the-year-2025",
+      "lastCrawledAt": "2025-04-08T19:46:18.956+00:00"
+    },
+    "key": "fhi color guide mug bundle limited edition pantone color of the year 2025.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:46:18.998Z"
+  },
+  {
+    "id": "file_01JRBF0M75MJN4RR2RSF6PQ35T",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 3863,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/special-offers/formula-guide-mug-bundle-limited-edition-pantone-color-of-the-year-2025",
+      "lastCrawledAt": "2025-04-08T19:46:10.110+00:00"
+    },
+    "key": "formula guide mug bundle limited edition pantone color of the year 2025.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:46:10.269Z"
+  },
+  {
+    "id": "file_01JRBF0M0TFQTQD4JJTJZ5123W",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 2738,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/special-offers/limited-edition-mug-notebook-keychain-pantone-color-of-the-year-2025-bundle",
+      "lastCrawledAt": "2025-04-08T19:46:09.839+00:00"
+    },
+    "key": "limited edition mug notebook keychain pantone color of the year 2025 bundle.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:46:10.064Z"
+  },
+  {
+    "id": "file_01JRBF0KPZ3QVF7XMMRWJYCGS0",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 4488,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/special-offers/formula-guide-coy25-connect-bundle",
+      "lastCrawledAt": "2025-04-08T19:46:08.867+00:00"
+    },
+    "key": "formula guide coy25 connect bundle.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:46:09.632Z"
+  },
+  {
+    "id": "file_01JRBF09AYCSR36YM0SWFGWR89",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 4816,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/fashion-home-interiors/fhi-color-guide-coy25-connect-bundle",
+      "lastCrawledAt": "2025-04-08T19:45:59.072+00:00"
+    },
+    "key": "fhi color guide coy25 connect bundle.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:45:59.120Z"
+  },
+  {
+    "id": "file_01JRBF096DQ13TXQYDPFKNZBAX",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 3445,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/lifestyle/limited-edition-keychain-pantone-color-of-the-year-2025",
+      "lastCrawledAt": "2025-04-08T19:45:58.896+00:00"
+    },
+    "key": "limited edition keychain pantone color of the year 2025.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:45:58.978Z"
+  },
+  {
+    "id": "file_01JRBF01EZC6KNMNA32K6AHNYW",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 3360,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/lifestyle/limited-edition-vegan-leather-notebook-pantone-color-of-the-year-2025",
+      "lastCrawledAt": "2025-04-08T19:45:50.810+00:00"
+    },
+    "key": "limited edition vegan leather notebook pantone color of the year 2025.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:45:51.059Z"
+  },
+  {
+    "id": "file_01JRBF013D7TW89EFGD9ES8XG2",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 3415,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/lifestyle/limited-edition-notebook-pantone-color-of-the-year-2025",
+      "lastCrawledAt": "2025-04-08T19:45:50.651+00:00"
+    },
+    "key": "limited edition notebook pantone color of the year 2025.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:45:50.687Z"
+  },
+  {
+    "id": "file_01JRBEZF0A17ESR4009YBMTQ5P",
+    "accessPolicies": [
+      "public_content"
+    ],
+    "contentType": "text/html; charset=utf-8",
+    "size": 1820,
+    "status": "upload_completed",
+    "tags": {
+      "system": "true",
+      "purpose": "webchat_mobile_share",
+      "htmlVersion": "359955614"
+    },
+    "key": "webchat/mobile/share.html",
+    "index": false,
+    "updatedAt": "2025-04-08T19:45:32.158Z"
+  },
+  {
+    "id": "file_01JRBEZEYTZ1K22GWD0KDPY4TS",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 3332,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/lifestyle/limited-edition-espresso-cup-pantone-color-of-the-year-2025",
+      "lastCrawledAt": "2025-04-08T19:45:32.059+00:00"
+    },
+    "key": "limited edition espresso cup pantone color of the year 2025.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:45:32.113Z"
+  },
+  {
+    "id": "file_01JRBEYW2HV9PEJES2Y1VYGDFE",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 3471,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/graphics/formula-guide-limited-edition-pantone-color-of-the-year-2025",
+      "lastCrawledAt": "2025-04-08T19:45:12.724+00:00"
+    },
+    "key": "formula guide limited edition pantone color of the year 2025.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:45:12.774Z"
+  },
+  {
+    "id": "file_01JRBEYVYCJXZ6PW6DVWZAH9GJ",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 1579,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/lifestyle/dualities-solid-shawl",
+      "lastCrawledAt": "2025-04-08T19:45:12.568+00:00"
+    },
+    "key": "dualities solid shawl.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:45:12.645Z"
+  },
+  {
+    "id": "file_01JRBEYVS59E666EYRSFBMJK9G",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 1882,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/lifestyle/dualities-night-shawl",
+      "lastCrawledAt": "2025-04-08T19:45:12.422+00:00"
+    },
+    "key": "dualities night shawl.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:45:12.477Z"
+  },
+  {
+    "id": "file_01JRBEYNHSSNPAKKZRPN08WSSR",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 1878,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/lifestyle/dualities-day-shawl",
+      "lastCrawledAt": "2025-04-08T19:45:06.025+00:00"
+    },
+    "key": "dualities day shawl.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:45:06.094Z"
+  },
+  {
+    "id": "file_01JRBEYNDR43HHTXCZQV56Z9DM",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 2936,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/fashion-home-interiors/fashion-home-interiors-color-specifier-color-guide-set",
+      "lastCrawledAt": "2025-04-08T19:45:05.918+00:00"
+    },
+    "key": "fashion home interiors color specifier color guide set.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:45:05.962Z"
+  },
+  {
+    "id": "file_01JRBEYN7D39ECR3KCT57AXAVV",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 3850,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/fashion-home-interiors/fashion-home-interiors-cotton-swatch-library-dualities-expansion-pack",
+      "lastCrawledAt": "2025-04-08T19:45:05.675+00:00"
+    },
+    "key": "fashion home interiors cotton swatch library dualities expansion pack.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:45:05.766Z"
+  },
+  {
+    "id": "file_01JRBEYE2HT92N199GM92B27VD",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 3828,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/fashion-home-interiors/fashion-home-interiors-cotton-chip-set-dualities-expansion-pack",
+      "lastCrawledAt": "2025-04-08T19:44:58.389+00:00"
+    },
+    "key": "fashion home interiors cotton chip set dualities expansion pack.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:44:58.436Z"
+  },
+  {
+    "id": "file_01JRBEYDZ346388X2G3NWQ0KEP",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 3812,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/fashion-home-interiors/fashion-home-interiors-cotton-planner-dualities-expansion-pack",
+      "lastCrawledAt": "2025-04-08T19:44:58.271+00:00"
+    },
+    "key": "fashion home interiors cotton planner dualities expansion pack.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:44:58.323Z"
+  },
+  {
+    "id": "file_01JRBEYDT2DFMYJ77GR0QY8TP0",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 3772,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/fashion-home-interiors/fashion-home-interiors-cotton-passport-dualities-expansion-pack",
+      "lastCrawledAt": "2025-04-08T19:44:58.050+00:00"
+    },
+    "key": "fashion home interiors cotton passport dualities expansion pack.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:44:58.166Z"
+  },
+  {
+    "id": "file_01JRBEY6BV32PTQ9HQ94XEDAY9",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 3527,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/fashion-home-interiors/fashion-home-interiors-cotton-chip-set",
+      "lastCrawledAt": "2025-04-08T19:44:50.494+00:00"
+    },
+    "key": "fashion home interiors cotton chip set.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:44:50.545Z"
+  },
+  {
+    "id": "file_01JRBEY68E6ECPNJGDNC3FTWHF",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 3533,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/fashion-home-interiors/fashion-home-interiors-cotton-planner",
+      "lastCrawledAt": "2025-04-08T19:44:50.394+00:00"
+    },
+    "key": "fashion home interiors cotton planner.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:44:50.433Z"
+  },
+  {
+    "id": "file_01JRBEY63EETJGE920TNP0ZZV2",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 3780,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/fashion-home-interiors/fashion-home-interiors-cotton-passport",
+      "lastCrawledAt": "2025-04-08T19:44:50.160+00:00"
+    },
+    "key": "fashion home interiors cotton passport.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:44:50.266Z"
+  },
+  {
+    "id": "file_01JRBEXZ3ZD030KP5261BWP9QB",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 3817,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/fashion-home-interiors/fashion-home-interiors-cotton-swatch-library",
+      "lastCrawledAt": "2025-04-08T19:44:43.089+00:00"
+    },
+    "key": "fashion home interiors cotton swatch library.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:44:43.125Z"
+  },
+  {
+    "id": "file_01JRBEXZ106J0ZNKXH9WT8RYZ6",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 3331,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/fashion-home-interiors/fashion-home-interiors-color-specifier-dualities-expansion-pack",
+      "lastCrawledAt": "2025-04-08T19:44:42.970+00:00"
+    },
+    "key": "fashion home interiors color specifier dualities expansion pack.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:44:43.027Z"
+  },
+  {
+    "id": "file_01JRBEXYVBM59MJ0WPWHN5MM2Q",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 2712,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/fashion-home-interiors/fashion-home-interiors-color-guide-dualities-expansion-pack",
+      "lastCrawledAt": "2025-04-08T19:44:42.789+00:00"
+    },
+    "key": "fashion home interiors color guide dualities expansion pack.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:44:42.840Z"
+  },
+  {
+    "id": "file_01JRBEXR8XCRPZNN7HZ0D026A3",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 3622,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/fashion-home-interiors/fashion-home-interiors-color-specifier",
+      "lastCrawledAt": "2025-04-08T19:44:36.047+00:00"
+    },
+    "key": "fashion home interiors color specifier.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:44:36.112Z"
+  },
+  {
+    "id": "file_01JRBEXR2YGXA7RCQ31HFQ576B",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 2913,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/fashion-home-interiors/cotton-swatch-card-dualities-collection",
+      "lastCrawledAt": "2025-04-08T19:44:35.749+00:00"
+    },
+    "key": "cotton swatch card dualities collection.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:44:35.825Z"
+  },
+  {
+    "id": "file_01JRBEX62VFY97E13WN1DEZBT6",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 2573,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/trend-books/viewpoint-colour-issue-15-arise",
+      "lastCrawledAt": "2025-04-08T19:44:17.453+00:00"
+    },
+    "key": "viewpoint colour issue 15 arise.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:44:17.488Z"
+  },
+  {
+    "id": "file_01JRBEX605XRDZ3XZAX1PPB1NS",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 2362,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/trend-books/pantoneview-colour-planner-spring-summer-2026",
+      "lastCrawledAt": "2025-04-08T19:44:17.168+00:00"
+    },
+    "key": "pantoneview colour planner spring summer 2026.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:44:17.400Z"
+  },
+  {
+    "id": "file_01JRBEX5NNXJC55P1KCQS3HDDR",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 3165,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/graphics/pastels-neons-chips-coated-uncoated",
+      "lastCrawledAt": "2025-04-08T19:44:17.013+00:00"
+    },
+    "key": "pastels neons chips coated uncoated.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:44:17.067Z"
+  },
+  {
+    "id": "file_01JRBEWZ9KXT23NHW5NR1Z4B8H",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 3035,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/graphics/metallics-guide",
+      "lastCrawledAt": "2025-04-08T19:44:10.487+00:00"
+    },
+    "key": "metallics guide.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:44:10.537Z"
+  },
+  {
+    "id": "file_01JRBEWZ61D7QSFPABQNPHHXMA",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 3615,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/fashion-home-interiors/the-pantone-formula-guide-and-color-guide-bundle",
+      "lastCrawledAt": "2025-04-08T19:44:10.365+00:00"
+    },
+    "key": "the pantone formula guide and color guide bundle.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:44:10.423Z"
+  },
+  {
+    "id": "file_01JRBEWYXF7ZE4DAN0A5MFC2ST",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 1949,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/trend-books/pantone-view-home-interiors-2025-book",
+      "lastCrawledAt": "2025-04-08T19:44:10.104+00:00"
+    },
+    "key": "pantone view home interiors 2025 book.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:44:10.145Z"
+  },
+  {
+    "id": "file_01JRBEWREXF4DJZY2ZJ09KYNFW",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 1856,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/trend-books/pantone-view-home-interiors-2025-with-cotton-swatch-standards",
+      "lastCrawledAt": "2025-04-08T19:44:03.477+00:00"
+    },
+    "key": "pantone view home interiors 2025 with cotton swatch standards.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:44:03.538Z"
+  },
+  {
+    "id": "file_01JRBEWR9WRG2XK2G2V7D3HRMW",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 1278,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/trend-books/pantoneview-colour-planner-autumn-winter-2025-26",
+      "lastCrawledAt": "2025-04-08T19:44:03.328+00:00"
+    },
+    "key": "pantoneview colour planner autumn winter 2025 26.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:44:03.376Z"
+  },
+  {
+    "id": "file_01JRBEWR5QWGHNJ3Q40P9ZQ0FW",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 2162,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/trend-books/viewpoint-colour-issue-14-human-nature",
+      "lastCrawledAt": "2025-04-08T19:44:03.176+00:00"
+    },
+    "key": "viewpoint colour issue 14 human nature.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:44:03.246Z"
+  },
+  {
+    "id": "file_01JRBEWHP3GMNNP62F9QWAZ5CX",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 2076,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/lifestyle/oca-low-pantone-off-white-canvas-viva-magenta-sneaker-women",
+      "lastCrawledAt": "2025-04-08T19:43:56.566+00:00"
+    },
+    "key": "oca low pantone off white canvas viva magenta sneaker women.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:43:56.602Z"
+  },
+  {
+    "id": "file_01JRBEWHK4G4RQNM3Q4RHAJRX8",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 2033,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/lifestyle/oca-low-pantone-off-white-canvas-viva-magenta-sneaker-men",
+      "lastCrawledAt": "2025-04-08T19:43:56.000+00:00"
+    },
+    "key": "oca low pantone off white canvas viva magenta sneaker men.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:43:56.500Z"
+  },
+  {
+    "id": "file_01JRBEWH06TXXH8KF86DSDN3KV",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 4222,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/lifestyle/oca-low-pantone-snow-white-canvas-contrast-thread-sneaker-women",
+      "lastCrawledAt": "2025-04-08T19:43:55.865+00:00"
+    },
+    "key": "oca low pantone snow white canvas contrast thread sneaker women.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:43:55.902Z"
+  },
+  {
+    "id": "file_01JRBEWB3MGYXS4B9KQEY2E27P",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 3036,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/graphics/metallic-chips-book",
+      "lastCrawledAt": "2025-04-08T19:43:49.823+00:00"
+    },
+    "key": "metallic chips book.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:43:49.860Z"
+  },
+  {
+    "id": "file_01JRBEWB0P3JCQG2DD2TAH25C9",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 8203,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/lifestyle/oca-high-pantone-viva-magenta-canvas-contrast-thread-sneaker-women",
+      "lastCrawledAt": "2025-04-08T19:43:49.709+00:00"
+    },
+    "key": "oca high pantone viva magenta canvas contrast thread sneaker women.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:43:49.769Z"
+  },
+  {
+    "id": "file_01JRBEWAT897MEB4DHF1D61WVB",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 8156,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/lifestyle/oca-high-pantone-viva-magenta-canvas-contrast-thread-sneaker-men",
+      "lastCrawledAt": "2025-04-08T19:43:49.391+00:00"
+    },
+    "key": "oca high pantone viva magenta canvas contrast thread sneaker men.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:43:49.434Z"
+  },
+  {
+    "id": "file_01JRBEW42BZQ9ZDFWAC89P2C85",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 4024,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/lifestyle/salvas-pantone-white-leather-viva-magenta-logo-sneaker-women",
+      "lastCrawledAt": "2025-04-08T19:43:42.603+00:00"
+    },
+    "key": "salvas pantone white leather viva magenta logo sneaker women.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:43:42.659Z"
+  },
+  {
+    "id": "file_01JRBEW3Y979PF8TERVGS78JZH",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 3937,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/lifestyle/salvas-pantone-white-leather-viva-magenta-logo-sneaker-men",
+      "lastCrawledAt": "2025-04-08T19:43:42.496+00:00"
+    },
+    "key": "salvas pantone white leather viva magenta logo sneaker men.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:43:42.527Z"
+  },
+  {
+    "id": "file_01JRBEW3TFS5E9PWEA5HB12KZ5",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 3862,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/lifestyle/ibi-slip-on-pantone-viva-magenta-knit-sneaker-women",
+      "lastCrawledAt": "2025-04-08T19:43:42.259+00:00"
+    },
+    "key": "ibi slip on pantone viva magenta knit sneaker women.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:43:42.403Z"
+  },
+  {
+    "id": "file_01JRBEVX0Z81S2WXT53BPRR3C3",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 3887,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/lifestyle/ibi-slip-on-pantone-viva-magenta-knit-sneaker-men",
+      "lastCrawledAt": "2025-04-08T19:43:35.384+00:00"
+    },
+    "key": "ibi slip on pantone viva magenta knit sneaker men.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:43:35.440Z"
+  },
+  {
+    "id": "file_01JRBEVWV3ZYCCS7RB1RD1ADJ6",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 8219,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/lifestyle/oca-low-pantone-viva-magenta-canvas-contrast-thread-sneaker-women",
+      "lastCrawledAt": "2025-04-08T19:43:35.213+00:00"
+    },
+    "key": "oca low pantone viva magenta canvas contrast thread sneaker women.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:43:35.256Z"
+  },
+  {
+    "id": "file_01JRBEVWPVGX5FHPM7GH7JAX81",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 4248,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/lifestyle/oca-low-pantone-viva-magenta-canvas-contrast-thread-sneaker-men",
+      "lastCrawledAt": "2025-04-08T19:43:35.069+00:00"
+    },
+    "key": "oca low pantone viva magenta canvas contrast thread sneaker men.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:43:35.107Z"
+  },
+  {
+    "id": "file_01JRBEVN3ZGP01C1PQCYHR8547",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 4107,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/lifestyle/naioca-pro-pantone-viva-magenta-suede-and-canvas-off-white-logo-sneaker-men",
+      "lastCrawledAt": "2025-04-08T19:43:27.310+00:00"
+    },
+    "key": "naioca pro pantone viva magenta suede and canvas off white logo sneaker men.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:43:27.347Z"
+  },
+  {
+    "id": "file_01JRBEVN02V82BC363J9AA48QK",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 2518,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/graphics/pastels-neons-guide-coated-uncoated",
+      "lastCrawledAt": "2025-04-08T19:43:27.148+00:00"
+    },
+    "key": "pastels neons guide coated uncoated.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:43:27.206Z"
+  },
+  {
+    "id": "file_01JRBEV1B46K22HC2PXPJVNPVC",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 3952,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/lifestyle/salvas-pantone-white-leather-peach-fuzz-logo-sneaker-women",
+      "lastCrawledAt": "2025-04-08T19:43:06.867+00:00"
+    },
+    "key": "salvas pantone white leather peach fuzz logo sneaker women.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:43:07.091Z"
+  },
+  {
+    "id": "file_01JRBEV12APXF7SXGFRC76XZBD",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 3932,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/lifestyle/oca-low-pantone-white-premium-leather-peach-fuzz-sneaker-women",
+      "lastCrawledAt": "2025-04-08T19:43:06.784+00:00"
+    },
+    "key": "oca low pantone white premium leather peach fuzz sneaker women.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:43:06.814Z"
+  },
+  {
+    "id": "file_01JRBEV0Y9TXB42S5A3VMQ8DNW",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 1378,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/lifestyle/naioca-pantone-peach-fuzz-canvas-off-white-logo-sneaker-women",
+      "lastCrawledAt": "2025-04-08T19:43:06.531+00:00"
+    },
+    "key": "naioca pantone peach fuzz canvas off white logo sneaker women.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:43:06.684Z"
+  },
+  {
+    "id": "file_01JRBETYCQP6N72YXAEGXD8XDH",
+    "accessPolicies": [],
+    "contentType": "application/json",
+    "size": 160243,
+    "status": "upload_completed",
+    "tags": {
+      "dm": "studio/dialog-manager",
+      "dmHash": "ce716e3bff3220d1860a7a0162c312ca5ac3dabd35bd8163a8e4d65a5a4a81d7",
+      "system": "true",
+      "purpose": "bot-content"
+    },
+    "key": "deployments/1744141384004.json",
+    "index": false,
+    "updatedAt": "2025-04-08T19:43:04.060Z"
+  },
+  {
+    "id": "file_01JRBETMGZWBRQWM4KXSFCVTSV",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 4304,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/lifestyle/oca-low-pantone-peach-fuzz-canvas-contrast-thread-sneaker-women",
+      "lastCrawledAt": "2025-04-08T19:42:53.925+00:00"
+    },
+    "key": "oca low pantone peach fuzz canvas contrast thread sneaker women.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:42:53.969Z"
+  },
+  {
+    "id": "file_01JRBETMCQNS2GHDSD73ZWZV68",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 3923,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/lifestyle/salvas-pantone-white-leather-peach-fuzz-logo-sneaker-men",
+      "lastCrawledAt": "2025-04-08T19:42:53.743+00:00"
+    },
+    "key": "salvas pantone white leather peach fuzz logo sneaker men.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:42:53.840Z"
+  },
+  {
+    "id": "file_01JRBESMXC5YT0N2QGE741XEHZ",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 3560,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/lifestyle/naioca-pantone-peach-fuzz-canvas-off-white-logo-sneaker-men",
+      "lastCrawledAt": "2025-04-08T19:42:21.561+00:00"
+    },
+    "key": "naioca pantone peach fuzz canvas off white logo sneaker men.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:42:21.599Z"
+  },
+  {
+    "id": "file_01JRBESMSC6HQ2R5AKF6MCRDN1",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 4242,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/lifestyle/oca-low-pantone-peach-fuzz-canvas-contrast-thread-sneaker-men",
+      "lastCrawledAt": "2025-04-08T19:42:21.421+00:00"
+    },
+    "key": "oca low pantone peach fuzz canvas contrast thread sneaker men.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:42:21.463Z"
+  },
+  {
+    "id": "file_01JRBESET01FG77JDKG1G3G4KR",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 3212,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/lifestyle/limited-edition-long-keychain-pantone-color-of-the-year-2024",
+      "lastCrawledAt": "2025-04-08T19:42:15.298+00:00"
+    },
+    "key": "limited edition long keychain pantone color of the year 2024.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:42:15.347Z"
+  },
+  {
+    "id": "file_01JRBESEPFGQADF4F30DACTRYJ",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 3177,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/lifestyle/limited-edition-keychain-pantone-color-of-the-year-2024",
+      "lastCrawledAt": "2025-04-08T19:42:15.196+00:00"
+    },
+    "key": "limited edition keychain pantone color of the year 2024.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:42:15.240Z"
+  },
+  {
+    "id": "file_01JRBESEJKD6K03BH6SZF6B4CK",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 3116,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/lifestyle/limited-edition-cortado-cup-pantone-color-of-the-year-2024",
+      "lastCrawledAt": "2025-04-08T19:42:15.062+00:00"
+    },
+    "key": "limited edition cortado cup pantone color of the year 2024.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:42:15.113Z"
+  },
+  {
+    "id": "file_01JRBES91TS2NH6YSWKNDRVFTQ",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 3118,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/lifestyle/limited-edition-espresso-cup-pantone-color-of-the-year-2024",
+      "lastCrawledAt": "2025-04-08T19:42:09.417+00:00"
+    },
+    "key": "limited edition espresso cup pantone color of the year 2024.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:42:09.458Z"
+  },
+  {
+    "id": "file_01JRBES8YQM63YMN522PRVWVKF",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 3171,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/lifestyle/limited-edition-mug-pantone-color-of-the-year-2024",
+      "lastCrawledAt": "2025-04-08T19:42:09.317+00:00"
+    },
+    "key": "limited edition mug pantone color of the year 2024.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:42:09.361Z"
+  },
+  {
+    "id": "file_01JRBES8SYM91HEADDKWQM90V5",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 1900,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/trend-books/viewpoint-colour-issue-13-transformation",
+      "lastCrawledAt": "2025-04-08T19:42:09.141+00:00"
+    },
+    "key": "viewpoint colour issue 13 transformation.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:42:09.206Z"
+  },
+  {
+    "id": "file_01JRBERZFXBFWG2E5H9HH9T6HY",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 1084,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/lifestyle/talens-pantone-art-pad",
+      "lastCrawledAt": "2025-04-08T19:41:59.614+00:00"
+    },
+    "key": "talens pantone art pad.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:41:59.671Z"
+  },
+  {
+    "id": "file_01JRBERZCP3C5K3F3JYMH884VG",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 1982,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/lifestyle/talens-pantone-marker-9-set",
+      "lastCrawledAt": "2025-04-08T19:41:59.522+00:00"
+    },
+    "key": "talens pantone marker 9 set.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:41:59.566Z"
+  },
+  {
+    "id": "file_01JRBERZ7BENSGKSHNPNDN55KW",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 1528,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/trend-books/pantoneview-colour-planner-spring-summer-2025",
+      "lastCrawledAt": "2025-04-08T19:41:59.331+00:00"
+    },
+    "key": "pantoneview colour planner spring summer 2025.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:41:59.396Z"
+  },
+  {
+    "id": "file_01JRBERQVVJEAJZVCRVD0XN6F5",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 2706,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/fashion-home-interiors/fhi-fashionable-bundle",
+      "lastCrawledAt": "2025-04-08T19:41:51.795+00:00"
+    },
+    "key": "fhi fashionable bundle.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:41:51.849Z"
+  },
+  {
+    "id": "file_01JRBERQQN3M5DJB90YVTJSNMY",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 2632,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/fashion-home-interiors/pantone-view-home-interiors-2025-paper-traveler-bundle",
+      "lastCrawledAt": "2025-04-08T19:41:51.661+00:00"
+    },
+    "key": "pantone view home interiors 2025 paper traveler bundle.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:41:51.727Z"
+  },
+  {
+    "id": "file_01JRBERQHTFWAG741EZWAVNE81",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 1777,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/fashion-home-interiors/skintone-guide-limited-edition",
+      "lastCrawledAt": "2025-04-08T19:41:51.486+00:00"
+    },
+    "key": "skintone guide limited edition.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:41:51.538Z"
+  },
+  {
+    "id": "file_01JRBERG0VQPXA57B776G0CMK0",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 2634,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/graphics/solid-chips-supplement-coated-uncoated",
+      "lastCrawledAt": "2025-04-08T19:41:43.747+00:00"
+    },
+    "key": "solid chips supplement coated uncoated.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:41:43.808Z"
+  },
+  {
+    "id": "file_01JRBERFTCMVE1S367DVX68KKC",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 2251,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/graphics/coated-combo",
+      "lastCrawledAt": "2025-04-08T19:41:43.562+00:00"
+    },
+    "key": "coated combo.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:41:43.621Z"
+  },
+  {
+    "id": "file_01JRBERFNZ5G4F4RXJK4WS99SC",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 2131,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/graphics/color-bridge-guide-uncoated",
+      "lastCrawledAt": "2025-04-08T19:41:43.435+00:00"
+    },
+    "key": "color bridge guide uncoated.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:41:43.481Z"
+  },
+  {
+    "id": "file_01JRBER99CF3AZ3N7CNFE1EMQD",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 3155,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/graphics/color-bridge-guide-coated",
+      "lastCrawledAt": "2025-04-08T19:41:36.858+00:00"
+    },
+    "key": "color bridge guide coated.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:41:36.915Z"
+  },
+  {
+    "id": "file_01JRBER95CFTGGWV5WCR4P744Y",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 3220,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/graphics/essentials-guide-set",
+      "lastCrawledAt": "2025-04-08T19:41:36.730+00:00"
+    },
+    "key": "essentials guide set.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:41:36.798Z"
+  },
+  {
+    "id": "file_01JRBER90SQS6W48GWZ9TCGYQ6",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 3529,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/graphics/color-bridge-guide-set-coated-uncoated",
+      "lastCrawledAt": "2025-04-08T19:41:36.616+00:00"
+    },
+    "key": "color bridge guide set coated uncoated.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:41:36.656Z"
+  },
+  {
+    "id": "file_01JRBER226PW2P9S3RMEJFYH45",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 1854,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/fashion-home-interiors/skintone-guide",
+      "lastCrawledAt": "2025-04-08T19:41:29.499+00:00"
+    },
+    "key": "skintone guide.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:41:29.536Z"
+  },
+  {
+    "id": "file_01JRBER1Z7GQE849WWKYPKKC18",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 3301,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/graphics/portable-guide-studio",
+      "lastCrawledAt": "2025-04-08T19:41:29.350+00:00"
+    },
+    "key": "portable guide studio.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:41:29.409Z"
+  },
+  {
+    "id": "file_01JRBER1RX3184JE0GEWNJ1NRT",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 3298,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/graphics/reference-library",
+      "lastCrawledAt": "2025-04-08T19:41:29.081+00:00"
+    },
+    "key": "reference library.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:41:29.231Z"
+  },
+  {
+    "id": "file_01JRBEQVZ0N53YG7VJQ9EA8KFP",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 3187,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/graphics/solid-color-set",
+      "lastCrawledAt": "2025-04-08T19:41:23.167+00:00"
+    },
+    "key": "solid color set.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:41:23.288Z"
+  },
+  {
+    "id": "file_01JRBEQVRGGZF1760P7F6VQQM0",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 2414,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/lifestyle/pantone-ruler-30cm",
+      "lastCrawledAt": "2025-04-08T19:41:23.029+00:00"
+    },
+    "key": "pantone ruler 30cm.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:41:23.081Z"
+  },
+  {
+    "id": "file_01JRBEQK6MAJHH7TNB4BBPX3AD",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 988,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/lifestyle/limited-edition-notebook-pantone-color-of-the-year-2023",
+      "lastCrawledAt": "2025-04-08T19:41:14.088+00:00"
+    },
+    "key": "limited edition notebook pantone color of the year 2023.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:41:14.259Z"
+  },
+  {
+    "id": "file_01JRBEQJXXZDMQH404VACXF650",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 2093,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/lifestyle/limited-edition-long-keychain-pantone-color-of-the-year-2023",
+      "lastCrawledAt": "2025-04-08T19:41:13.979+00:00"
+    },
+    "key": "limited edition long keychain pantone color of the year 2023.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:41:14.033Z"
+  },
+  {
+    "id": "file_01JRBEQJR4KJ5RX5KFH038CHN9",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 971,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/lifestyle/limited-edition-keychain-pantone-color-of-the-year-2023",
+      "lastCrawledAt": "2025-04-08T19:41:13.797+00:00"
+    },
+    "key": "limited edition keychain pantone color of the year 2023.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:41:13.848Z"
+  },
+  {
+    "id": "file_01JRBEQB16SDENZ3JTY5VCGSX5",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 2489,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/lifestyle/limited-edition-espresso-cup-pantone-color-of-the-year-2023",
+      "lastCrawledAt": "2025-04-08T19:41:05.718+00:00"
+    },
+    "key": "limited edition espresso cup pantone color of the year 2023.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:41:05.947Z"
+  },
+  {
+    "id": "file_01JRBEQAPCDRBV00M85EK2MJPC",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 2737,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/lifestyle/limited-edition-cortado-cup-pantone-color-of-the-year-2023",
+      "lastCrawledAt": "2025-04-08T19:41:05.520+00:00"
+    },
+    "key": "limited edition cortado cup pantone color of the year 2023.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:41:05.601Z"
+  },
+  {
+    "id": "file_01JRBEQ4P5Z3YKRSA3AH824WZG",
+    "accessPolicies": [],
+    "contentType": "application/json",
+    "size": 160243,
+    "status": "upload_completed",
+    "tags": {
+      "dm": "studio/dialog-manager",
+      "dmHash": "ce716e3bff3220d1860a7a0162c312ca5ac3dabd35bd8163a8e4d65a5a4a81d7",
+      "system": "true",
+      "purpose": "bot-content"
+    },
+    "key": "deployments/1744141259390.json",
+    "index": false,
+    "updatedAt": "2025-04-08T19:40:59.446Z"
+  },
+  {
+    "id": "file_01JRBEQ2QJV21BVRRD5EPYQN91",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 2318,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/graphics/solid-guide-set",
+      "lastCrawledAt": "2025-04-08T19:40:57.394+00:00"
+    },
+    "key": "solid guide set.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:40:57.451Z"
+  },
+  {
+    "id": "file_01JRBEQ2KP7T1K8C7M1D2WKVD4",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 5175,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/graphics/capsure-with-formula-guide",
+      "lastCrawledAt": "2025-04-08T19:40:57.296+00:00"
+    },
+    "key": "capsure with formula guide.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:40:57.326Z"
+  },
+  {
+    "id": "file_01JRBEQ2E2JSDVPRRG1W6T99YP",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 3978,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/graphics/formula-guide-coated-uncoated",
+      "lastCrawledAt": "2025-04-08T19:40:57.025+00:00"
+    },
+    "key": "formula guide coated uncoated.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:40:57.118Z"
+  },
+  {
+    "id": "file_01JRBEPSPGCPGH5V08H589XKM1",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 2250,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/lifestyle/pantone-macchiato-cup",
+      "lastCrawledAt": "2025-04-08T19:40:48.148+00:00"
+    },
+    "key": "pantone macchiato cup.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:40:48.200Z"
+  },
+  {
+    "id": "file_01JRBEPKEBQZDZNZMQR8YH9GPN",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 3100,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/lifestyle/pantone-cortado-thermo-cup-for-the-culture",
+      "lastCrawledAt": "2025-04-08T19:40:41.720+00:00"
+    },
+    "key": "pantone cortado thermo cup for the culture.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:40:41.791Z"
+  },
+  {
+    "id": "file_01JRBEPK5Q7BC52EGV55ZZWCQ5",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 2621,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/lifestyle/pantone-cortado-thermo-cup-set-of-4-for-the-culture",
+      "lastCrawledAt": "2025-04-08T19:40:41.437+00:00"
+    },
+    "key": "pantone cortado thermo cup set of 4 for the culture.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:40:41.478Z"
+  },
+  {
+    "id": "file_01JRBEPK0H3SJDQT37STMMNTDG",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 2799,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/special-offers/color-guide-connect-bundle",
+      "lastCrawledAt": "2025-04-08T19:40:41.234+00:00"
+    },
+    "key": "color guide connect bundle.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:40:41.351Z"
+  },
+  {
+    "id": "file_01JRBEPA44VJZCNEV9X2ASZVPS",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 3653,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/graphics/formula-guide-connect-bundle",
+      "lastCrawledAt": "2025-04-08T19:40:32.200+00:00"
+    },
+    "key": "formula guide connect bundle.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:40:32.239Z"
+  },
+  {
+    "id": "file_01JRBEPA111C90TMJ80B61XRMA",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 2105,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/lifestyle/pantone-eraser",
+      "lastCrawledAt": "2025-04-08T19:40:32.103+00:00"
+    },
+    "key": "pantone eraser.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:40:32.147Z"
+  },
+  {
+    "id": "file_01JRBEP9W90VFEJPSSQZHZNXJ1",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 3158,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/plastics/the-pantone-pms-color-variety-collection",
+      "lastCrawledAt": "2025-04-08T19:40:31.965+00:00"
+    },
+    "key": "the pantone pms color variety collection.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:40:32.001Z"
+  },
+  {
+    "id": "file_01JRBEP25H3F4WCFQEEBKFXV89",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 3048,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/fashion-home-interiors/fhi-metallic-shimmers-color-specifier-and-guide-set",
+      "lastCrawledAt": "2025-04-08T19:40:24.051+00:00"
+    },
+    "key": "fhi metallic shimmers color specifier and guide set.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:40:24.107Z"
+  },
+  {
+    "id": "file_01JRBEP20RE59WD3HHFKG05VMP",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 3134,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/fashion-home-interiors/fashion-home-interiors-fhi-metallic-shimmers-color-guide",
+      "lastCrawledAt": "2025-04-08T19:40:23.897+00:00"
+    },
+    "key": "fashion home interiors fhi metallic shimmers color guide.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:40:23.944Z"
+  },
+  {
+    "id": "file_01JRBEP1WMC2TF34Y6TYJ1QFSD",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 2124,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/graphics/color-bridge-set-connect-bundle",
+      "lastCrawledAt": "2025-04-08T19:40:23.774+00:00"
+    },
+    "key": "color bridge set connect bundle.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:40:23.822Z"
+  },
+  {
+    "id": "file_01JRBENSQ9TMX3XYAMH14R82AN",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 1689,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/plastics/the-pantone-tints-and-tones-collection",
+      "lastCrawledAt": "2025-04-08T19:40:15.387+00:00"
+    },
+    "key": "the pantone tints and tones collection.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:40:15.460Z"
+  },
+  {
+    "id": "file_01JRBENSK7BY0AJX25A6Z3MRXT",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 2761,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/plastics/the-pantone-matching-system-plastic-standard-chips-collection",
+      "lastCrawledAt": "2025-04-08T19:40:15.270+00:00"
+    },
+    "key": "the pantone matching system plastic standard chips collection.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:40:15.329Z"
+  },
+  {
+    "id": "file_01JRBENSEFFN84HPCPFK72VYMW",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 950,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/lifestyle/limited-edition-keychain-pantone-color-of-the-year-2022",
+      "lastCrawledAt": "2025-04-08T19:40:15.068+00:00"
+    },
+    "key": "limited edition keychain pantone color of the year 2022.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:40:15.168Z"
+  },
+  {
+    "id": "file_01JRBENH4N74W3J72HCACZT8DN",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 974,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/lifestyle/limited-edition-notebook-pantone-color-of-the-year-2022",
+      "lastCrawledAt": "2025-04-08T19:40:06.633+00:00"
+    },
+    "key": "limited edition notebook pantone color of the year 2022.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:40:06.669Z"
+  },
+  {
+    "id": "file_01JRBENH0FJMX1HDNC69T9899N",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 2080,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/lifestyle/limited-edition-long-keychain-pantone-color-of-the-year-2022",
+      "lastCrawledAt": "2025-04-08T19:40:06.486+00:00"
+    },
+    "key": "limited edition long keychain pantone color of the year 2022.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:40:06.536Z"
+  },
+  {
+    "id": "file_01JRBENAZX8T6JS1EKPCQSM8R1",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 950,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/lifestyle/limited-edition-cortado-cup-pantone-color-of-the-year-2022",
+      "lastCrawledAt": "2025-04-08T19:40:00.293+00:00"
+    },
+    "key": "limited edition cortado cup pantone color of the year 2022.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:40:00.371Z"
+  },
+  {
+    "id": "file_01JRBENAS2EZ7WEE1CYQWMGFXA",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 2987,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/fashion-home-interiors/fashion-home-interiors-color-specifier-replacement-page-pantone-color-of-the-year-2022",
+      "lastCrawledAt": "2025-04-08T19:40:00.086+00:00"
+    },
+    "key": "fashion home interiors color specifier replacement page pantone color of the year 2022.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:40:00.153Z"
+  },
+  {
+    "id": "file_01JRBEN13GJ7W5X993E0510KHE",
+    "accessPolicies": [],
+    "contentType": "application/json; charset=utf-8",
+    "size": 35463,
+    "status": "upload_completed",
+    "tags": {
+      "uri": "workflow://wf-main/nd-54aa0c19de",
+      "origin": "integration",
+      "userId": "user-2",
+      "eventId": "none",
+      "purpose": "iteration",
+      "executionId": "llmz_01JRBEMRVTK7VMGBV8M8FDRRJE",
+      "integration": "Int_Improvement",
+      "iterationId": "llmz_01JRBEMRVTK7VMGBV8M8FDRRJE_1",
+      "conversationId": "convo-3"
+    },
+    "key": "improvements/iterations/llmz_01JRBEMRVTK7VMGBV8M8FDRRJE_1.json",
+    "index": false,
+    "updatedAt": "2025-04-08T19:39:50.248Z"
+  },
+  {
+    "id": "file_01JRBEMS31MZ99BZ9CN9JRKY1X",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 3487,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/fashion-home-interiors/cotton-swatch-card-pantone-color-of-the-year-2022",
+      "lastCrawledAt": "2025-04-08T19:39:42.005+00:00"
+    },
+    "key": "cotton swatch card pantone color of the year 2022.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:39:42.041Z"
+  },
+  {
+    "id": "file_01JRBEMS0E27T61S4HVQV6S04V",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 3502,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/fashion-home-interiors/large-paper-swatch-tpg-sheet-pantone-color-of-the-year-2022",
+      "lastCrawledAt": "2025-04-08T19:39:41.854+00:00"
+    },
+    "key": "large paper swatch tpg sheet pantone color of the year 2022.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:39:41.955Z"
+  },
+  {
+    "id": "file_01JRBEMRSZHAHVMSGHND0NBAA3",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 2415,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/fashion-home-interiors/fashion-home-interiors-paper-traveler",
+      "lastCrawledAt": "2025-04-08T19:39:41.692+00:00"
+    },
+    "key": "fashion home interiors paper traveler.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:39:41.742Z"
+  },
+  {
+    "id": "file_01JRBEMJNFBQZ2F7TNB0E19XTK",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 1102,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/lifestyle/limited-edition-notebook-pantone-color-of-the-year-2021",
+      "lastCrawledAt": "2025-04-08T19:39:35.287+00:00"
+    },
+    "key": "limited edition notebook pantone color of the year 2021.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:39:35.371Z"
+  },
+  {
+    "id": "file_01JRBEMJE1ZZVSPH5N39V191ZG",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 977,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/lifestyle/limited-edition-cortado-cup-pantone-color-of-the-year-2021",
+      "lastCrawledAt": "2025-04-08T19:39:35.138+00:00"
+    },
+    "key": "limited edition cortado cup pantone color of the year 2021.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:39:35.227Z"
+  },
+  {
+    "id": "file_01JRBEMJ8TBNQGWWWP6ZKYHZ1G",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 980,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/lifestyle/limited-edition-espresso-cup-pantone-color-of-the-year-2021",
+      "lastCrawledAt": "2025-04-08T19:39:35.016+00:00"
+    },
+    "key": "limited edition espresso cup pantone color of the year 2021.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:39:35.058Z"
+  },
+  {
+    "id": "file_01JRBEMERRB7N7AY6NKMS22E6S",
+    "accessPolicies": [],
+    "contentType": "application/json; charset=utf-8",
+    "size": 33093,
+    "status": "upload_completed",
+    "tags": {
+      "uri": "workflow://wf-main/nd-54aa0c19de",
+      "origin": "integration",
+      "userId": "user-2",
+      "eventId": "none",
+      "purpose": "iteration",
+      "executionId": "llmz_01JRBEMBF2QK6TVABB80R69DCG",
+      "integration": "Int_Improvement",
+      "iterationId": "llmz_01JRBEMBF2QK6TVABB80R69DCG_1",
+      "conversationId": "convo-3"
+    },
+    "key": "improvements/iterations/llmz_01JRBEMBF2QK6TVABB80R69DCG_1.json",
+    "index": false,
+    "updatedAt": "2025-04-08T19:39:31.474Z"
+  },
+  {
+    "id": "file_01JRBEMAH30DE023MRY91TYKR2",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 926,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/lifestyle/limited-edition-keychain-pantone-color-of-the-year-2021",
+      "lastCrawledAt": "2025-04-08T19:39:27.078+00:00"
+    },
+    "key": "limited edition keychain pantone color of the year 2021.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:39:27.128Z"
+  },
+  {
+    "id": "file_01JRBEMAC6PDXHWBSQXAGE91Q5",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 1026,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/lifestyle/limited-edition-mug-pantone-color-of-the-year-2021-ultimate-gray-and-illuminating",
+      "lastCrawledAt": "2025-04-08T19:39:26.924+00:00"
+    },
+    "key": "limited edition mug pantone color of the year 2021 ultimate gray and illuminating.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:39:26.974Z"
+  },
+  {
+    "id": "file_01JRBEMA6A0EZD30SFH50RB195",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 3809,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/graphics/cmyk-color-guide-coated-uncoated",
+      "lastCrawledAt": "2025-04-08T19:39:26.744+00:00"
+    },
+    "key": "cmyk color guide coated uncoated.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:39:26.781Z"
+  },
+  {
+    "id": "file_01JRBEM3MADRXCH94TFF8RVQPP",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 613,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/lifestyle/pantone-tritan-drinking-bottle-15-0343-greenery",
+      "lastCrawledAt": "2025-04-08T19:39:19.913+00:00"
+    },
+    "key": "pantone tritan drinking bottle 15 0343 greenery.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:39:20.067Z"
+  },
+  {
+    "id": "file_01JRBEM3CJNC1VMWK2JCHE1SV5",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 2258,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/lifestyle/pantone-large-umbrella-pink-182",
+      "lastCrawledAt": "2025-04-08T19:39:19.773+00:00"
+    },
+    "key": "pantone large umbrella pink 182.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:39:19.815Z"
+  },
+  {
+    "id": "file_01JRBEM35P7HHWP3M1MRWH2JXE",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 2167,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/lifestyle/pantone-large-umbrella-red-2035",
+      "lastCrawledAt": "2025-04-08T19:39:19.472+00:00"
+    },
+    "key": "pantone large umbrella red 2035.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:39:19.598Z"
+  },
+  {
+    "id": "file_01JRBEKVX4TKWZ3CF6QX5X8KHS",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 1903,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/lifestyle/pantone-large-umbrella",
+      "lastCrawledAt": "2025-04-08T19:39:12.108+00:00"
+    },
+    "key": "pantone large umbrella.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:39:12.156Z"
+  },
+  {
+    "id": "file_01JRBEKVSVRN28WKF3VN8SQ3R4",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 2632,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/lifestyle/pantone-folding-umbrella",
+      "lastCrawledAt": "2025-04-08T19:39:11.999+00:00"
+    },
+    "key": "pantone folding umbrella.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:39:12.053Z"
+  },
+  {
+    "id": "file_01JRBEKVNJ5ZK631JN0XJ5DXD7",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 2366,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/lifestyle/pantone-hip-flask",
+      "lastCrawledAt": "2025-04-08T19:39:11.841+00:00"
+    },
+    "key": "pantone hip flask.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:39:11.911Z"
+  },
+  {
+    "id": "file_01JRBEKN0QZ49M037AC7MCGNY1",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 2589,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/fashion-home-interiors/polyester-swatch-book",
+      "lastCrawledAt": "2025-04-08T19:39:05.017+00:00"
+    },
+    "key": "polyester swatch book.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:39:05.094Z"
+  },
+  {
+    "id": "file_01JRBEKMWCFF8RKES652N6G3SQ",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 953,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/munsell/farnsworth-munsell-dichotomous-d-15-color-vision-test",
+      "lastCrawledAt": "2025-04-08T19:39:04.902+00:00"
+    },
+    "key": "farnsworth munsell dichotomous d 15 color vision test.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:39:04.963Z"
+  },
+  {
+    "id": "file_01JRBEKMQHP90P3NF21CVRMPM5",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 2913,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/munsell/munsell-interactive-learning-kit",
+      "lastCrawledAt": "2025-04-08T19:39:04.754+00:00"
+    },
+    "key": "munsell interactive learning kit.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:39:04.801Z"
+  },
+  {
+    "id": "file_01JRBEKC53KRQZDWEJHAE5GJD6",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 939,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/munsell/munsell-usda-frozen-french-fry-standard-5-pack",
+      "lastCrawledAt": "2025-04-08T19:38:55.965+00:00"
+    },
+    "key": "munsell usda frozen french fry standard 5 pack.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:38:56.029Z"
+  },
+  {
+    "id": "file_01JRBEKC10KYE15N88683F6NRG",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 1200,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/munsell/munsell-nearly-neutrals-book-of-color",
+      "lastCrawledAt": "2025-04-08T19:38:55.842+00:00"
+    },
+    "key": "munsell nearly neutrals book of color.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:38:55.895Z"
+  },
+  {
+    "id": "file_01JRBEKBVH15J4N5ZZWP6DTMZ4",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 1334,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/munsell/munsell-eia-tia-598-a-rose-color-coding-chart",
+      "lastCrawledAt": "2025-04-08T19:38:55.682+00:00"
+    },
+    "key": "munsell eia tia 598 a rose color coding chart.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:38:55.723Z"
+  },
+  {
+    "id": "file_01JRBEK4Y9REZX7BEPHFG4W8G6",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 1496,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/munsell/munsell-color-charts-for-color-coding",
+      "lastCrawledAt": "2025-04-08T19:38:48.593+00:00"
+    },
+    "key": "munsell color charts for color coding.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:38:48.644Z"
+  },
+  {
+    "id": "file_01JRBEK0ZKB1H5B2SQKY8HN0HH",
+    "accessPolicies": [],
+    "contentType": "application/json; charset=utf-8",
+    "size": 32991,
+    "status": "upload_completed",
+    "tags": {
+      "uri": "workflow://wf-main/nd-54aa0c19de",
+      "origin": "integration",
+      "userId": "user-2",
+      "eventId": "none",
+      "purpose": "iteration",
+      "executionId": "llmz_01JRBEJYTFHQV71BNA15REEVBE",
+      "integration": "Int_Improvement",
+      "iterationId": "llmz_01JRBEJYTFHQV71BNA15REEVBE_1",
+      "conversationId": "convo-3"
+    },
+    "key": "improvements/iterations/llmz_01JRBEJYTFHQV71BNA15REEVBE_1.json",
+    "index": false,
+    "updatedAt": "2025-04-08T19:38:44.586Z"
+  },
+  {
+    "id": "file_01JRBEJXT95MGEQD3B6BV02PSC",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 2497,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/munsell/munsell-soil-color-book",
+      "lastCrawledAt": "2025-04-08T19:38:41.295+00:00"
+    },
+    "key": "munsell soil color book.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:38:41.346Z"
+  },
+  {
+    "id": "file_01JRBEJXQ6P7YD5D6VN5C96782",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 1352,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/munsell/munsell-rock-color-book",
+      "lastCrawledAt": "2025-04-08T19:38:41.174+00:00"
+    },
+    "key": "munsell rock color book.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:38:41.245Z"
+  },
+  {
+    "id": "file_01JRBEJXJ8G7K58EJNNBPVWK3A",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 3292,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/munsell/munsell-plant-tissue-color-book",
+      "lastCrawledAt": "2025-04-08T19:38:41.043+00:00"
+    },
+    "key": "munsell plant tissue color book.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:38:41.087Z"
+  },
+  {
+    "id": "file_01JRBEJSB9JEZCDEWAY9WM6HYP",
+    "accessPolicies": [
+      "public_content"
+    ],
+    "contentType": "image/jpeg",
+    "size": 650476,
+    "status": "upload_completed",
+    "tags": {
+      "system": "true",
+      "purpose": "emulator"
+    },
+    "key": "1744141115895.IMG_7396.jpg",
+    "index": false,
+    "updatedAt": "2025-04-08T19:38:36.581Z"
+  },
+  {
+    "id": "file_01JRBEJP6DC2SCFTQV8YKAQY98",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 3011,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/munsell/munsell-neutral-value-scale-matte-finish",
+      "lastCrawledAt": "2025-04-08T19:38:33.389+00:00"
+    },
+    "key": "munsell neutral value scale matte finish.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:38:33.503Z"
+  },
+  {
+    "id": "file_01JRBEJNZAF68BEK4MAZ7H97SZ",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 1315,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/munsell/munsell-neutral-value-scale-glossy-finish",
+      "lastCrawledAt": "2025-04-08T19:38:33.097+00:00"
+    },
+    "key": "munsell neutral value scale glossy finish.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:38:33.315Z"
+  },
+  {
+    "id": "file_01JRBEJNNR6W078354B7GPHNWJ",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 1363,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/munsell/munsell-book-of-color-matte-edition",
+      "lastCrawledAt": "2025-04-08T19:38:32.815+00:00"
+    },
+    "key": "munsell book of color matte edition.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:38:33.004Z"
+  },
+  {
+    "id": "file_01JRBEJEC8Y6501N6P8D8M2FD7",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 1890,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/munsell/munsell-book-of-color-glossy-edition",
+      "lastCrawledAt": "2025-04-08T19:38:25.481+00:00"
+    },
+    "key": "munsell book of color glossy edition.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:38:25.538Z"
+  },
+  {
+    "id": "file_01JRBEJE8TRPS10BFTMKY656F6",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 1235,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/munsell/farnsworth-munsell-100-hue-test-scoring-software",
+      "lastCrawledAt": "2025-04-08T19:38:25.366+00:00"
+    },
+    "key": "farnsworth munsell 100 hue test scoring software.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:38:25.426Z"
+  },
+  {
+    "id": "file_01JRBEJE48JYPSS7RV2X3NTR05",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 2679,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/munsell/farnsworth-munsell-100-hue-test",
+      "lastCrawledAt": "2025-04-08T19:38:25.220+00:00"
+    },
+    "key": "farnsworth munsell 100 hue test.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:38:25.282Z"
+  },
+  {
+    "id": "file_01JRBEJ7EC7DCEFVAF1W4YC7PC",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 2247,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/lifestyle/pantone-chips-journal-brights",
+      "lastCrawledAt": "2025-04-08T19:38:18.391+00:00"
+    },
+    "key": "pantone chips journal brights.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:38:18.436Z"
+  },
+  {
+    "id": "file_01JRBEJ78X52WBPM61GKDK9QRH",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 739,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/lifestyle/pantone-color-cards",
+      "lastCrawledAt": "2025-04-08T19:38:18.189+00:00"
+    },
+    "key": "pantone color cards.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:38:18.262Z"
+  },
+  {
+    "id": "file_01JRBEJ72GWRW22DJYCAC8VGEY",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 1428,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/lifestyle/the-pantone-fashion-sketchpad",
+      "lastCrawledAt": "2025-04-08T19:38:18.000+00:00"
+    },
+    "key": "the pantone fashion sketchpad.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:38:18.057Z"
+  },
+  {
+    "id": "file_01JRBEJ1B3YZ4K6D9XPXWTWMJX",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 340,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/lifestyle/pantone-key-chain-blue-2150",
+      "lastCrawledAt": "2025-04-08T19:38:12.121+00:00"
+    },
+    "key": "pantone key chain blue 2150.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:38:12.186Z"
+  },
+  {
+    "id": "file_01JRBEJ13WQD97XTRS904AZCC9",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 620,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/lifestyle/pantone-espresso-cup-greenery-15-0343",
+      "lastCrawledAt": "2025-04-08T19:38:11.867+00:00"
+    },
+    "key": "pantone espresso cup greenery 15 0343.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:38:11.947Z"
+  },
+  {
+    "id": "file_01JRBEHSJ4517FGS0TSPFQR0X7",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 748,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/lifestyle/pantone-long-key-chain-pride",
+      "lastCrawledAt": "2025-04-08T19:38:04.151+00:00"
+    },
+    "key": "pantone long key chain pride.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:38:04.210Z"
+  },
+  {
+    "id": "file_01JRBEHK3G9QSCAKCED0KG1VB4",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 2711,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/devices/pantone-formula-scale-3",
+      "lastCrawledAt": "2025-04-08T19:37:57.538+00:00"
+    },
+    "key": "pantone formula scale 3.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:37:57.604Z"
+  },
+  {
+    "id": "file_01JRBEHJZWW1A51HJ7NMAV2HWS",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 2238,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/lifestyle/cortado-thermo-cup-red-2035",
+      "lastCrawledAt": "2025-04-08T19:37:57.451+00:00"
+    },
+    "key": "cortado thermo cup red 2035.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:37:57.493Z"
+  },
+  {
+    "id": "file_01JRBEHJV5Y8WBQCHMNP046NHQ",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 2655,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/lifestyle/cortado-thermo-cup-set-of-4",
+      "lastCrawledAt": "2025-04-08T19:37:57.275+00:00"
+    },
+    "key": "cortado thermo cup set of 4.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:37:57.340Z"
+  },
+  {
+    "id": "file_01JRBEH879J52HPK7VQCDGYZ9A",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 4094,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/devices/pantone-light-booth",
+      "lastCrawledAt": "2025-04-08T19:37:46.410+00:00"
+    },
+    "key": "pantone light booth.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:37:46.467Z"
+  },
+  {
+    "id": "file_01JRBEH83RC1C4X3H108MJ4X2Z",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 4104,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/lifestyle/cortado-thermo-cup",
+      "lastCrawledAt": "2025-04-08T19:37:46.262+00:00"
+    },
+    "key": "cortado thermo cup.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:37:46.353Z"
+  },
+  {
+    "id": "file_01JRBEH7WKY4SEFH5D2956ZDWV",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 1373,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/pantoneview-colour-planner-spring-summer-2022-pdf",
+      "lastCrawledAt": "2025-04-08T19:37:46.057+00:00"
+    },
+    "key": "pantoneview colour planner spring summer 2022 pdf.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:37:46.124Z"
+  },
+  {
+    "id": "file_01JRBEH2CKDTG2VK02XH99J4FR",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 2161,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/devices/ufro-instapick",
+      "lastCrawledAt": "2025-04-08T19:37:40.427+00:00"
+    },
+    "key": "ufro instapick.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:37:40.484Z"
+  },
+  {
+    "id": "file_01JRBEH291V4T1EQWA8TE2B3AN",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 3834,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/license/pantone-api",
+      "lastCrawledAt": "2025-04-08T19:46:55.128+00:00"
+    },
+    "key": "pantone api.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:46:55.184Z"
+  },
+  {
+    "id": "file_01JRBEH23BQ0SDQTMMH58NWRNK",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 3434,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/fashion-home-interiors/pq-17-1230tcx-color-of-the-year-2025",
+      "lastCrawledAt": "2025-04-08T19:37:40.089+00:00"
+    },
+    "key": "pq 17 1230tcx color of the year 2025.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:37:40.193Z"
+  },
+  {
+    "id": "file_01JRBEGVFSZ27G11B0X5VMVXXJ",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 1200,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/fashion-home-interiors/pq-13-1023tcx-color-of-the-year-2024",
+      "lastCrawledAt": "2025-04-08T19:37:33.378+00:00"
+    },
+    "key": "pq 13 1023tcx color of the year 2024.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:37:33.418Z"
+  },
+  {
+    "id": "file_01JRBEGVBR7QGXF797AXWJ9QNR",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 3538,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/plastics/pantone-plastic-standard-chips",
+      "lastCrawledAt": "2025-04-08T19:37:33.247+00:00"
+    },
+    "key": "pantone plastic standard chips.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:37:33.296Z"
+  },
+  {
+    "id": "file_01JRBEG7M0AH5E2HDXBT74XVRM",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 1531,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/lifestyle/pantone-50-postcards",
+      "lastCrawledAt": "2025-04-08T19:37:13.020+00:00"
+    },
+    "key": "pantone 50 postcards.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:37:13.079Z"
+  },
+  {
+    "id": "file_01JRBEG7GDWMEBYZ6K3BP03B41",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 1202,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/fashion-home-interiors/fhi-color-guide-limited-edition-color-of-the-year-2021",
+      "lastCrawledAt": "2025-04-08T19:37:12.914+00:00"
+    },
+    "key": "fhi color guide limited edition color of the year 2021.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:37:12.965Z"
+  },
+  {
+    "id": "file_01JRBEG7BMKS9FPVHPDH5BQDET",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 2376,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/lifestyle/box-of-color",
+      "lastCrawledAt": "2025-04-08T19:37:12.752+00:00"
+    },
+    "key": "box of color.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:37:12.811Z"
+  },
+  {
+    "id": "file_01JRBEG0NNCFH030NW2JWF289R",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 2613,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/devices/light-booth-replacement-lamps",
+      "lastCrawledAt": "2025-04-08T19:37:05.922+00:00"
+    },
+    "key": "light booth replacement lamps.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:37:05.966Z"
+  },
+  {
+    "id": "file_01JRBEG0JECG1CV5TC5BWYN8EC",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 2353,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/lifestyle/pantone-pride-espresso-cup-7-piece-set",
+      "lastCrawledAt": "2025-04-08T19:37:05.771+00:00"
+    },
+    "key": "pantone pride espresso cup 7 piece set.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:37:05.859Z"
+  },
+  {
+    "id": "file_01JRBEG0CWHM0VVABAT85WR49Y",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 2509,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/lifestyle/pantone-pride-mug",
+      "lastCrawledAt": "2025-04-08T19:37:05.639+00:00"
+    },
+    "key": "pantone pride mug.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:37:05.684Z"
+  },
+  {
+    "id": "file_01JRBEFTKG8G2ZKYRZHNRM4VBJ",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 2029,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/lifestyle/pantone-note-pad",
+      "lastCrawledAt": "2025-04-08T19:36:59.694+00:00"
+    },
+    "key": "pantone note pad.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:36:59.751Z"
+  },
+  {
+    "id": "file_01JRBEFTDZPV3DS8EZND6VSQCV",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 1566,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/fashion-home-interiors/fhi-color-specifier-replacement-page-fhiprp-1-138a-color-of-the-year-2023",
+      "lastCrawledAt": "2025-04-08T19:36:59.533+00:00"
+    },
+    "key": "fhi color specifier replacement page fhiprp 1 138a color of the year 2023.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:36:59.577Z"
+  },
+  {
+    "id": "file_01JRBEEVJ02MEDDMJV07JXS65T",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 1218,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/fashion-home-interiors/fashion-home-interiors-color-specifier-replacement-pages-fhiprp-1-091a",
+      "lastCrawledAt": "2025-04-08T19:36:27.919+00:00"
+    },
+    "key": "fashion home interiors color specifier replacement pages fhiprp 1 091a.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:36:27.960Z"
+  },
+  {
+    "id": "file_01JRBEEVDW157XV586BR74CCYD",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 3565,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/fashion-home-interiors/fashion-home-interiors-color-specifier-replacement-pages-fhiprp-1-069a",
+      "lastCrawledAt": "2025-04-08T19:36:27.788+00:00"
+    },
+    "key": "fashion home interiors color specifier replacement pages fhiprp 1 069a.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:36:27.827Z"
+  },
+  {
+    "id": "file_01JRBEEVA20P99HHDY0JNYJPKS",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 2822,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/graphics/chip-replacement-pages-coated-uncoated",
+      "lastCrawledAt": "2025-04-08T19:36:27.515+00:00"
+    },
+    "key": "chip replacement pages coated uncoated.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:36:27.579Z"
+  },
+  {
+    "id": "file_01JRBEEHJKYA3HNQXRQM1WJ07Z",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 3043,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/fashion-home-interiors/metallic-shimmers-textile-paper-metallics-tpm-sheet",
+      "lastCrawledAt": "2025-04-08T19:36:17.644+00:00"
+    },
+    "key": "metallic shimmers textile paper metallics tpm sheet.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:36:17.738Z"
+  },
+  {
+    "id": "file_01JRBEEHBDZT3SQ91ASQDHY1SF",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 2183,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/fashion-home-interiors/nylon-brights-swatch-card",
+      "lastCrawledAt": "2025-04-08T19:36:17.463+00:00"
+    },
+    "key": "nylon brights swatch card.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:36:17.509Z"
+  },
+  {
+    "id": "file_01JRBEEH7F2S3HFNKM9ZJCTKCE",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 3283,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/fashion-home-interiors/nylon-brights-swatch-spectral-data",
+      "lastCrawledAt": "2025-04-08T19:36:17.330+00:00"
+    },
+    "key": "nylon brights swatch spectral data.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:36:17.383Z"
+  },
+  {
+    "id": "file_01JRBEE7QXDS96Z2RVHFFJFVA4",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 3224,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/fashion-home-interiors/polyester-swatch-spectral-data",
+      "lastCrawledAt": "2025-04-08T19:36:07.630+00:00"
+    },
+    "key": "polyester swatch spectral data.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:36:07.669Z"
+  },
+  {
+    "id": "file_01JRBEE7KWMDPYAK2DZ7WZYGTB",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 2994,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/fashion-home-interiors/pantone-color-match-card",
+      "lastCrawledAt": "2025-04-08T19:36:07.501+00:00"
+    },
+    "key": "pantone color match card.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:36:07.541Z"
+  },
+  {
+    "id": "file_01JRBEE3RE8F58WKD3HR5PRQ40",
+    "accessPolicies": [],
+    "contentType": "application/json; charset=utf-8",
+    "size": 34285,
+    "status": "upload_completed",
+    "tags": {
+      "uri": "workflow://wf-main/nd-54aa0c19de",
+      "origin": "integration",
+      "userId": "user-2",
+      "eventId": "none",
+      "purpose": "iteration",
+      "executionId": "llmz_01JRBEDFPYW8P3SSMRMXR2DZFH",
+      "integration": "Int_Improvement",
+      "iterationId": "llmz_01JRBEDFPYW8P3SSMRMXR2DZFH_2",
+      "conversationId": "convo-3"
+    },
+    "key": "improvements/iterations/llmz_01JRBEDFPYW8P3SSMRMXR2DZFH_2.json",
+    "index": false,
+    "updatedAt": "2025-04-08T19:36:03.561Z"
+  },
+  {
+    "id": "file_01JRBEE3PQ6HD146PZK2A31MB1",
+    "accessPolicies": [],
+    "contentType": "application/json; charset=utf-8",
+    "size": 31355,
+    "status": "upload_completed",
+    "tags": {
+      "uri": "workflow://wf-main/nd-54aa0c19de",
+      "origin": "integration",
+      "userId": "user-2",
+      "eventId": "none",
+      "purpose": "iteration",
+      "executionId": "llmz_01JRBEDFPYW8P3SSMRMXR2DZFH",
+      "integration": "Int_Improvement",
+      "iterationId": "llmz_01JRBEDFPYW8P3SSMRMXR2DZFH_1",
+      "conversationId": "convo-3"
+    },
+    "key": "improvements/iterations/llmz_01JRBEDFPYW8P3SSMRMXR2DZFH_1.json",
+    "index": false,
+    "updatedAt": "2025-04-08T19:36:03.502Z"
+  },
+  {
+    "id": "file_01JRBEDNGD3W8RW2WXXMMHMNB5",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 1158,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/fashion-home-interiors/cotton-swatch-card-18-1750-tcx-color-of-the-year-2023",
+      "lastCrawledAt": "2025-04-08T19:35:48.910+00:00"
+    },
+    "key": "cotton swatch card 18 1750 tcx color of the year 2023.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:35:48.997Z"
+  },
+  {
+    "id": "file_01JRBEDN9N4FANRNHVP2HR79EJ",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 1140,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/lifestyle/limited-edition-journal-pantone-color-of-the-year-2020-classic-blue",
+      "lastCrawledAt": "2025-04-08T19:35:48.735+00:00"
+    },
+    "key": "limited edition journal pantone color of the year 2020 classic blue.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:35:48.784Z"
+  },
+  {
+    "id": "file_01JRBED3FAWMV7WMD4NYR3TEBF",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 1792,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/lifestyle/limited-edition-mug-pantone-color-of-the-year-2020-classic-blue",
+      "lastCrawledAt": "2025-04-08T19:35:30.464+00:00"
+    },
+    "key": "limited edition mug pantone color of the year 2020 classic blue.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:35:30.523Z"
+  },
+  {
+    "id": "file_01JRBED39BWJPMPJMG899C6BV6",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 2377,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/fashion-home-interiors/cotton-swatch-card",
+      "lastCrawledAt": "2025-04-08T19:35:30.245+00:00"
+    },
+    "key": "cotton swatch card.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:35:30.329Z"
+  },
+  {
+    "id": "file_01JRBED1C717Z3NH6CSVW5D5YH",
+    "accessPolicies": [],
+    "contentType": "application/json; charset=utf-8",
+    "size": 30919,
+    "status": "upload_completed",
+    "tags": {
+      "uri": "workflow://wf-main/nd-54aa0c19de",
+      "origin": "integration",
+      "userId": "user-2",
+      "eventId": "none",
+      "purpose": "iteration",
+      "executionId": "llmz_01JRBECWF67CVECN2RAK4WMPH0",
+      "integration": "Int_Improvement",
+      "iterationId": "llmz_01JRBECWF67CVECN2RAK4WMPH0_1",
+      "conversationId": "convo-3"
+    },
+    "key": "improvements/iterations/llmz_01JRBECWF67CVECN2RAK4WMPH0_1.json",
+    "index": false,
+    "updatedAt": "2025-04-08T19:35:28.376Z"
+  },
+  {
+    "id": "file_01JRBECV8P5SX0WG75SHZKD4PH",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 951,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/lifestyle/pantone-color-of-the-year-2019-mug",
+      "lastCrawledAt": "2025-04-08T19:35:22.069+00:00"
+    },
+    "key": "pantone color of the year 2019 mug.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:35:22.117Z"
+  },
+  {
+    "id": "file_01JRBECV1A4GS4KTGKX3RHSS5E",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 2153,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/lifestyle/pantone-large-notebook",
+      "lastCrawledAt": "2025-04-08T19:35:21.841+00:00"
+    },
+    "key": "pantone large notebook.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:35:21.884Z"
+  },
+  {
+    "id": "file_01JRBECRBX219WWGC4VFMP2P0Q",
+    "accessPolicies": [
+      "public_content"
+    ],
+    "contentType": "image/jpeg",
+    "size": 650476,
+    "status": "upload_completed",
+    "tags": {
+      "system": "true",
+      "purpose": "emulator"
+    },
+    "key": "1744140918932.IMG_7396.jpg",
+    "index": false,
+    "updatedAt": "2025-04-08T19:35:19.148Z"
+  },
+  {
+    "id": "file_01JRBECNHXS07HK9FVW0RSVYYF",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 630,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/lifestyle/pantone-pencil-cup-greenery-15-0343",
+      "lastCrawledAt": "2025-04-08T19:35:16.201+00:00"
+    },
+    "key": "pantone pencil cup greenery 15 0343.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:35:16.264Z"
+  },
+  {
+    "id": "file_01JRBECNCNW2C9PTAXK52HSKP9",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 2200,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/lifestyle/pantone-pencil-cup",
+      "lastCrawledAt": "2025-04-08T19:35:15.972+00:00"
+    },
+    "key": "pantone pencil cup.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:35:16.104Z"
+  },
+  {
+    "id": "file_01JRBECFVERPCMYBF4VVWE1HN9",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 3319,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/fashion-home-interiors/large-paper-swatch-17-1230-tpg-color-of-the-year-2025",
+      "lastCrawledAt": "2025-04-08T19:35:10.377+00:00"
+    },
+    "key": "large paper swatch 17 1230 tpg color of the year 2025.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:35:10.436Z"
+  },
+  {
+    "id": "file_01JRBECFPMH6XMR7Y666EJJ722",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 1299,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/fashion-home-interiors/large-paper-swatch-13-1023-tpg-color-of-the-year-2024",
+      "lastCrawledAt": "2025-04-08T19:35:10.218+00:00"
+    },
+    "key": "large paper swatch 13 1023 tpg color of the year 2024.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:35:10.283Z"
+  },
+  {
+    "id": "file_01JRBEC8PY8CG4VDCPH5ZSWA7C",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 1826,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/lifestyle/pantone-color-puzzles",
+      "lastCrawledAt": "2025-04-08T19:35:03.074+00:00"
+    },
+    "key": "pantone color puzzles.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:35:03.120Z"
+  },
+  {
+    "id": "file_01JRBEC8GPYZTHPMNPH2BTKK3F",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 2048,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/lifestyle/pantone-notebook-set",
+      "lastCrawledAt": "2025-04-08T19:35:02.844+00:00"
+    },
+    "key": "pantone notebook set.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:35:02.918Z"
+  },
+  {
+    "id": "file_01JRBEBESX15YD245R1KRVXAJY",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 376,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/lifestyle/pantone-business-card-holder-greenery-15-0343",
+      "lastCrawledAt": "2025-04-08T19:34:36.517+00:00"
+    },
+    "key": "pantone business card holder greenery 15 0343.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:34:36.596Z"
+  },
+  {
+    "id": "file_01JRBEBEKS2N1EPQV0SWFDNGMQ",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 653,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/lifestyle/pantone-long-key-chain",
+      "lastCrawledAt": "2025-04-08T19:34:36.345+00:00"
+    },
+    "key": "pantone long key chain.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:34:36.389Z"
+  },
+  {
+    "id": "file_01JRBEB7WX7313HKV82663GKCD",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 714,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/lifestyle/pantone-mini-notebook-set",
+      "lastCrawledAt": "2025-04-08T19:34:29.463+00:00"
+    },
+    "key": "pantone mini notebook set.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:34:29.525Z"
+  },
+  {
+    "id": "file_01JRBEB7S4W541Q9TX4H02EF74",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 1856,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/lifestyle/pantone-postcards",
+      "lastCrawledAt": "2025-04-08T19:34:29.359+00:00"
+    },
+    "key": "pantone postcards.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:34:29.402Z"
+  },
+  {
+    "id": "file_01JRBEB7N2FQKDHMGCJVS1WK6R",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 384,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/lifestyle/pantone-keychain-light-pink-182",
+      "lastCrawledAt": "2025-04-08T19:34:29.226+00:00"
+    },
+    "key": "pantone keychain light pink 182.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:34:29.272Z"
+  },
+  {
+    "id": "file_01JRBEAYVXK70YP792X1JCTT0W",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 2086,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/lifestyle/pantone-to-go-cup-light-pink-182",
+      "lastCrawledAt": "2025-04-08T19:34:20.232+00:00"
+    },
+    "key": "pantone to go cup light pink 182.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:34:20.279Z"
+  },
+  {
+    "id": "file_01JRBEAYQDA8N11958GRE74PY5",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 1538,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/lifestyle/pantone-tritan-drinking-bottle-red-2035",
+      "lastCrawledAt": "2025-04-08T19:34:20.065+00:00"
+    },
+    "key": "pantone tritan drinking bottle red 2035.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:34:20.127Z"
+  },
+  {
+    "id": "file_01JRBEAASDQTW1K4FFW1YFTCVV",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 667,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/lifestyle/pantone-tritan-drinking-bottle",
+      "lastCrawledAt": "2025-04-08T19:33:59.677+00:00"
+    },
+    "key": "pantone tritan drinking bottle.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:33:59.719Z"
+  },
+  {
+    "id": "file_01JRBEAANX4XWWEWETXWCBH7QJ",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 2087,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/lifestyle/pantone-mug",
+      "lastCrawledAt": "2025-04-08T19:33:59.562+00:00"
+    },
+    "key": "pantone mug.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:33:59.601Z"
+  },
+  {
+    "id": "file_01JRBEAAHEWYHHQKB5ZPRSGDN0",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 2977,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/fashion-home-interiors/fashion-home-interiors-fhi-metallic-shimmers-color-specifier",
+      "lastCrawledAt": "2025-04-08T19:33:59.415+00:00"
+    },
+    "key": "fashion home interiors fhi metallic shimmers color specifier.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:33:59.464Z"
+  },
+  {
+    "id": "file_01JRBEA1CKEZDN17JJ531EVKKB",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 2274,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/fashion-home-interiors/polyester-swatch-card",
+      "lastCrawledAt": "2025-04-08T19:33:49.984+00:00"
+    },
+    "key": "polyester swatch card.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:33:50.073Z"
+  },
+  {
+    "id": "file_01JRBEA169YKCW3CDVJ45C982E",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 2147,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/replacement-parts/pantone-sticker-chips",
+      "lastCrawledAt": "2025-04-08T19:33:49.842+00:00"
+    },
+    "key": "pantone sticker chips.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:33:49.890Z"
+  },
+  {
+    "id": "file_01JRBEA122MYQ27Y1H3KE6J9JT",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 1668,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/replacement-parts/pantone-super-swatch",
+      "lastCrawledAt": "2025-04-08T19:33:49.720+00:00"
+    },
+    "key": "pantone super swatch.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:33:49.754Z"
+  },
+  {
+    "id": "file_01JRBE97ZAWG2V7RS3DXDC8ETP",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 1486,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/plastics/plastic-chip-color-sets",
+      "lastCrawledAt": "2025-04-08T19:33:24.027+00:00"
+    },
+    "key": "plastic chip color sets.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:33:24.069Z"
+  },
+  {
+    "id": "file_01JRBE97VB8G5MBZPHNDRVC5EF",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 943,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/trend-books/the-complete-color-harmony-pantone-edition",
+      "lastCrawledAt": "2025-04-08T19:33:23.881+00:00"
+    },
+    "key": "the complete color harmony pantone edition.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:33:23.938Z"
+  },
+  {
+    "id": "file_01JRBE90CER4J4NWPP59W7E2KZ",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 778,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/lifestyle/pantone-to-go-cup",
+      "lastCrawledAt": "2025-04-08T19:33:16.244+00:00"
+    },
+    "key": "pantone to go cup.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:33:16.295Z"
+  },
+  {
+    "id": "file_01JRBE909AGEH9NBQMG56X5HMF",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 364,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/lifestyle/pantone-to-go-cup-15-0343-greenery",
+      "lastCrawledAt": "2025-04-08T19:33:16.110+00:00"
+    },
+    "key": "pantone to go cup 15 0343 greenery.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:33:16.194Z"
+  },
+  {
+    "id": "file_01JRBE903XDQ5Y1ZTAEJQ7SWGQ",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 360,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/lifestyle/pantone-espresso-cup-cool-gray-9",
+      "lastCrawledAt": "2025-04-08T19:33:15.971+00:00"
+    },
+    "key": "pantone espresso cup cool gray 9.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:33:16.022Z"
+  },
+  {
+    "id": "file_01JRBE8ST07G47X0WFYKZ8V6N6",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 2481,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/lifestyle/pantone-espresso-cup",
+      "lastCrawledAt": "2025-04-08T19:33:09.478+00:00"
+    },
+    "key": "pantone espresso cup.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:33:09.563Z"
+  },
+  {
+    "id": "file_01JRBE8SK9WXS098GT785DYS7P",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 2269,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/lifestyle/pantone-tea-cup",
+      "lastCrawledAt": "2025-04-08T19:33:09.277+00:00"
+    },
+    "key": "pantone tea cup.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:33:09.348Z"
+  },
+  {
+    "id": "file_01JRBE8SE2621WZ1H63QVQ8D7F",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 546,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/pantone-35-inspirational-color-palettes",
+      "lastCrawledAt": "2025-04-08T19:33:09.124+00:00"
+    },
+    "key": "pantone 35 inspirational color palettes.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:33:09.181Z"
+  },
+  {
+    "id": "file_01JRBE8JE5TAH6FHWHB367DYGB",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 1335,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/devices/capsure-with-bluetooth",
+      "lastCrawledAt": "2025-04-08T19:33:01.960+00:00"
+    },
+    "key": "capsure with bluetooth.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:33:02.014Z"
+  },
+  {
+    "id": "file_01JRBE8JADD0HHVFX702ESFRHF",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 2096,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/devices/rm200qc-imaging-spectrocolorimeter",
+      "lastCrawledAt": "2025-04-08T19:33:01.852+00:00"
+    },
+    "key": "rm200qc imaging spectrocolorimeter.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:33:01.893Z"
+  },
+  {
+    "id": "file_01JRBE8J68RSHT5MCK5V5Q47FQ",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 1159,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/lifestyle/pantone-the-20th-century-in-color",
+      "lastCrawledAt": "2025-04-08T19:33:01.668+00:00"
+    },
+    "key": "pantone the 20th century in color.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:33:01.758Z"
+  },
+  {
+    "id": "file_01JRBE8CFF8MJ8NZ9731FMAAV9",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 833,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/pantoner-more-alive-with-color",
+      "lastCrawledAt": "2025-04-08T19:32:55.852+00:00"
+    },
+    "key": "pantoner more alive with color.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:32:55.900Z"
+  },
+  {
+    "id": "file_01JRBE8CBRQGQDGC2J6SAQ5HFS",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 2010,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/pantone-studio-for-ios",
+      "lastCrawledAt": "2025-04-08T19:32:55.408+00:00"
+    },
+    "key": "pantone studio for ios.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:32:55.640Z"
+  },
+  {
+    "id": "file_01JRBE8BWVAW3VB79SSJ8J2HJB",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 1040,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/devices/pantone-capsure",
+      "lastCrawledAt": "2025-04-08T19:32:55.237+00:00"
+    },
+    "key": "pantone capsure.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:32:55.285Z"
+  },
+  {
+    "id": "file_01JRBE85HQ3717JPHC120N3FF1",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 2080,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/graphics/lighting-indicator-stickers-d50",
+      "lastCrawledAt": "2025-04-08T19:32:48.718+00:00"
+    },
+    "key": "lighting indicator stickers d50.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:32:48.816Z"
+  },
+  {
+    "id": "file_01JRBE85CRYP4HN1T87TCKB11C",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 2080,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/graphics/lighting-indicator-stickers-d65",
+      "lastCrawledAt": "2025-04-08T19:32:48.589+00:00"
+    },
+    "key": "lighting indicator stickers d65.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:32:48.659Z"
+  },
+  {
+    "id": "file_01JRBE857EZCJ8HFHCF6VDN078",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 1736,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/fashion-home-interiors/nylon-brights-set",
+      "lastCrawledAt": "2025-04-08T19:32:48.426+00:00"
+    },
+    "key": "nylon brights set.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:32:48.487Z"
+  },
+  {
+    "id": "file_01JRBE7Z5EP3GHGEZ8ZD1YV7RN",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 4708,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/digital",
+      "lastCrawledAt": "2025-04-08T19:32:42.182+00:00"
+    },
+    "key": "digital.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:32:42.266Z"
+  },
+  {
+    "id": "file_01JRBE7YZYTJJ9HPAA5WQR4KVR",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 12173,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/lifestyle",
+      "lastCrawledAt": "2025-04-08T19:32:42.000+00:00"
+    },
+    "key": "lifestyle.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:32:42.091Z"
+  },
+  {
+    "id": "file_01JRBE7YP8QH2G98R1PQE5B0B4",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 8660,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/plastics",
+      "lastCrawledAt": "2025-04-08T19:32:40.290+00:00"
+    },
+    "key": "plastics.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:32:40.446Z"
+  },
+  {
+    "id": "file_01JRBE7PC37H5EN3M8QRKEYXMR",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 12430,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/trend-books",
+      "lastCrawledAt": "2025-04-08T19:32:33.208+00:00"
+    },
+    "key": "trend books.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:32:33.276Z"
+  },
+  {
+    "id": "file_01JRBE7P8FV72DHTG2YS7WQ2AW",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 13151,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/replacement-parts",
+      "lastCrawledAt": "2025-04-08T19:32:33.106+00:00"
+    },
+    "key": "replacement parts.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:32:33.159Z"
+  },
+  {
+    "id": "file_01JRBE7P2NF0J9PRRH333CHWPH",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 30403,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/graphics",
+      "lastCrawledAt": "2025-04-08T19:32:32.928+00:00"
+    },
+    "key": "graphics.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:32:32.974Z"
+  },
+  {
+    "id": "file_01JRBE7J0N862HM1A4SFSKEMVY",
+    "accessPolicies": [],
+    "contentType": "application/pdf",
+    "size": 1606595,
+    "status": "indexing_completed",
+    "tags": {
+      "kbId": "kb-2f0a7ea639",
+      "title": "2003.05442v1.pdf",
+      "source": "knowledge-base",
+      "modalities": "[]"
+    },
+    "key": "kb-2f0a7ea639/2003.05442v1.pdf",
+    "index": true,
+    "updatedAt": "2025-04-08T19:32:28.810Z"
+  },
+  {
+    "id": "file_01JRBE7D7VCCDVNMHT0PVN1G9C",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 12343,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/color-of-the-year",
+      "lastCrawledAt": "2025-04-08T19:32:23.873+00:00"
+    },
+    "key": "color of the year.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:32:23.924Z"
+  },
+  {
+    "id": "file_01JRBE7D4H85W212C4ZPS9J19Z",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 10657,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/special-offers",
+      "lastCrawledAt": "2025-04-08T19:32:23.734+00:00"
+    },
+    "key": "special offers.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:32:23.818Z"
+  },
+  {
+    "id": "file_01JRBE7CXY5G2T7M93V3NF1SP7",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 32775,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/munsell",
+      "lastCrawledAt": "2025-04-08T19:32:23.552+00:00"
+    },
+    "key": "munsell.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:32:23.607Z"
+  },
+  {
+    "id": "file_01JRBE74PENCF3XK34YEZ3PVSG",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 16489,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/devices",
+      "lastCrawledAt": "2025-04-08T19:32:15.119+00:00"
+    },
+    "key": "devices.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:32:15.175Z"
+  },
+  {
+    "id": "file_01JRBE74EZ68YA2F1402C7AG6V",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 36396,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/products/fashion-home-interiors",
+      "lastCrawledAt": "2025-04-08T19:32:14.884+00:00"
+    },
+    "key": "fashion home interiors.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:32:14.934Z"
+  },
+  {
+    "id": "file_01JRBE747ZWVTZSC5RK8M3MABB",
+    "accessPolicies": [],
+    "contentType": "text/markdown",
+    "size": 9913,
+    "status": "indexing_completed",
+    "tags": {
+      "dsId": "ds-ccc5a83e9e",
+      "kbId": "kb-2f0a7ea639",
+      "source": "knowledge-base",
+      "favicon": "https://www.pantone.com/media/favicon/stores/11/apple-touch-icon.png",
+      "pageUrl": "https://www.pantone.com/skintone?srsltid=AfmBOoqtmLaZJtDtb-nOvy_E5ThkGuK--0bvTt-BdpmE9aBtaSHe4EZa",
+      "lastCrawledAt": "2025-04-08T19:32:14.617+00:00"
+    },
+    "key": "skintone srsltid afmbooqtmlazjtdtb novy e5thkguk  0bvtt bdpme9abtashe4eza.html",
+    "index": true,
+    "updatedAt": "2025-04-08T19:32:14.699Z"
+  },
+  {
+    "id": "file_01JRBE6PVXKEFWVMGSC9VHEZFS",
+    "accessPolicies": [],
+    "contentType": "application/json; charset=utf-8",
+    "size": 638382,
+    "status": "upload_completed",
+    "tags": {
+      "source": "website-indexing"
+    },
+    "key": "indexing-task-ds-ccc5a83e9e-20250408-1232.json",
+    "index": false,
+    "updatedAt": "2025-04-08T19:32:01.007Z"
+  },
+  {
+    "id": "file_01JRBE1EWGAMTFG99D6Y9JQQB8",
+    "accessPolicies": [],
+    "contentType": "application/json",
+    "size": 113555,
+    "status": "upload_completed",
+    "tags": {
+      "dm": "studio/dialog-manager",
+      "dmHash": "ce716e3bff3220d1860a7a0162c312ca5ac3dabd35bd8163a8e4d65a5a4a81d7",
+      "system": "true",
+      "purpose": "bot-content"
+    },
+    "key": "deployments/1744140548959.json",
+    "index": false,
+    "updatedAt": "2025-04-08T19:29:08.996Z"
+  },
+  {
+    "id": "file_01JRBE18QVDBC5ZGBR06QTA4T7",
+    "accessPolicies": [
+      "public_content"
+    ],
+    "contentType": "application/javascript",
+    "size": 404,
+    "status": "upload_completed",
+    "tags": {
+      "source": "integration",
+      "summarize": "true",
+      "integrationName": "webchat",
+      "webchatInjectConfigVersion": "1"
+    },
+    "key": "webchatConfigInject.js",
+    "index": false,
+    "updatedAt": "2025-04-08T19:29:02.344Z"
+  },
+  {
+    "id": "file_01JRBE183ZPSQV56BJX6MB23X2",
+    "accessPolicies": [
+      "public_content"
+    ],
+    "contentType": "application/json",
+    "size": 381,
+    "status": "upload_completed",
+    "tags": {
+      "source": "integration",
+      "summarize": "true",
+      "integrationName": "webchat",
+      "webchatConfigVersion": "1"
+    },
+    "key": "webchatConfig.json",
+    "index": false,
+    "updatedAt": "2025-04-08T19:29:02.070Z"
+  }
+]
